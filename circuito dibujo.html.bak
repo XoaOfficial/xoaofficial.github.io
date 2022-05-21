@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <!--- basic page needs
     ================================================== -->
-    <title>Reflexiones Matinales</title>
+    <title>Página Genérica</title>
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- mobile specific metas
@@ -93,71 +93,50 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> <a href="single.html" title="">Creatividad
-                  CASi a diario</a> </h2>
+              <h2 class="entry__title h1">Vamos a un circuito, ponte el CASco<br>
+              </h2>
               <div class="entry__meta">
                 <ul>
-                  <li>Reflexiones Matinales</li>
-                  <li><a href="#" title="" rel="category tag">etiquetas creo</a></li>
+                  <li><a href="creatividad.html" title="" rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
-                srcset="images/wheel-1000.jpg 1000w, 
-                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
-                alt=""> </div>
-            <div class="entry__content">
-              <p>Cuando se reanudaron las clases después de la pandemia, tuve
-                una idea para hacer las mañanas de mis amigos más entretenidas:
-                subir una pregunta cada día de clase a mi estado de WhatsApp, a
-                veces cómica, a veces compleja y a veces absurda. Lo llamé
-                Reflexiones Matinales, y después de recibir muchas respuestas
-                interesantes a lo largo del año, decidí continuar con la
-                iniciativa para mi curso de 1º de Bachillerato.</p>
-              <p>El enfoque cambió ligeramente, y resulta más difícil pensar
-                cada mañana en una nueva pregunta, así que a veces tengo que
-                improvisar o inspirarme en otros conceptos, pero siempre intento
-                mantener el horario de una reflexión cada día de clase. Otras
-                veces tengo una muy buena idea para alguna futura reflexión, así
-                que la apunto y la utilizo más adelante. Estas son algunas de
-                mis reflexiones favoritas del año:</p>
-              <ul>
-                <li>¿Cómo sería el mundo si hubiera una opción de deshacer una
-                  acción en la vida real? <i>(primera reflexión del curso)</i></li>
-                <li>¿Son los deberes necesarios para el progreso académico?</li>
-                <li>¿Hay algún límite para la creatividad humana?</li>
-                <li>Si se encontrara en un diccionario antiguo una palabra que
-                  nadie recuerda y no hubiera una definición visible, ¿se
-                  intentaría integrar en el léxico español o se ignoraría?</li>
-                <li>¿Es la libertad necesaria para la felicidad?</li>
-                <li>¿Cuál es la frase más larga que podéis crear, conteniendo la
-                  menor cantidad de información posible? <i>(para esta pregunta
-                    tengo que destacar la respuesta de Rafa, quien me sorprendió
-                    increíblemente con su creatividad: )</i></li>
-                <li>¿Qué hace que una reflexión matinal sea interesante o
-                  entretenida? <i>(de vez en cuando hago hasta metarreflexiones
-                    matinales, me encanta la idea)</i></li>
-                <li>¿Qué es la amistad?</li>
-                <li>¿Tienen las morsas autoestima? <i>(la pregunta surgió por
-                    una discusión sobre morsas en concreto, pero se podría
-                    generalizar a cualquier animal)</i></li>
-                <li>¿Está la elección de estudios directamente relacionada con
-                  la inteligencia de una persona?</li>
+            <div class="entry__content"> <img class="h-pull-right" src="images/circuito%20dibujo.jpg"
+                alt="" title="circuito dibujo" style="width: 218px; height: 263px;">
+              <p style="text-align: justify;">Hace unos meses, en la asignatura
+                de Dibujo Técnico estudiamos las tangencias: una manera de unir
+                rectas con arcos de circunferencia, o varios arcos entre sí, de
+                una manera suave usando elementos con solo un punto en común.
+                Uno de los ejercicios que usamos para practicar fue un circuito
+                de carreras, y tuve la idea de aplicar esos conocimientos a un
+                ámbito más ocioso y creativo.</p>
+              <img class="h-pull-left" src="images/circuito%20tm.png" alt="" title="circuito tm"
+                style="width: 174px; height: 275px;">
+              <p style="text-align: justify;">Usando el editor de mapas de
+                TrackMania, un videojuego de carreras que te permite diseñar tus
+                propios circuitos, hice una recreación de nuestro ejercicio de
+                tangencias. No se sintió como una tarea ni como ocio, sino un
+                momento de ilusión y alegría. Poder relacionar dos partes tan
+                diferentes de mi vida diaria es una sensación buenísima, y
+                aunque no fuera un proyecto muy complejo, estoy muy contento con
+                el resultado.</p>
+              <p style="text-align: justify;">El circuito se puede descargar <a
+                  href="files/Circuito%20Dibujo%20Tecnico.Map.Gbx">aquí</a> y lo
+                puedes probar si tienes el juego. No es una recreación perfecta
+                debido a las limitaciones del juego, pero representa bastante
+                bien cómo se conduciría si se trasladara a la realidad.</p>
+              <div class="video-container"> <iframe src="videos/circuito%20dibujo%20tecnico.mp4"
+                  webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""
+                  height="281" frameborder="0" width="500"></iframe> </div>
+              <!-- entry__content -->
+              <ul class="entry__post-nav h-group">
+                <li class="prev"><a rel="prev" href="#0"><strong class="h6">Previous
+                      Article</strong> Duis Sed Odio Sit Amet Nibh Vulputate</a></li>
+                <li class="next"><a rel="next" href="#0"><strong class="h6">Next
+                      Article</strong> Morbi Elit Consequat Ipsum</a></li>
               </ul>
-              <p>Reflexiones Matinales es la mejor manera de empezar la mañana,
-                y </p>
             </div>
-            <!-- entry__content -->
-            <p class="entry__tags"> <span>Tagged in </span>: <a href="#0">orci</a>,
-              <a href="#0">lectus</a>, <a href="#0">varius</a>, <a href="#0">turpis</a>
-            </p>
-            <ul class="entry__post-nav h-group">
-              <li class="prev"><a rel="prev" href="#0"><strong class="h6">Previous
-                    Article</strong> Duis Sed Odio Sit Amet Nibh Vulputate</a></li>
-              <li class="next"><a rel="next" href="#0"><strong class="h6">Next
-                    Article</strong> Morbi Elit Consequat Ipsum</a></li>
-            </ul>
           </article>
           <!-- end entry --> </div>
         <!-- end main -->
