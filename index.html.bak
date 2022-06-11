@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <!--- basic page needs
     ================================================== -->
-    <title>Diego de MerCASdo</title>
+    <title>Página principal</title>
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- mobile specific metas
@@ -25,7 +25,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
   </head>
-  <body id="top">
+  <body id="top" class="ss-single">
     <!-- preloader
     ================================================== -->
     <div id="preloader">
@@ -41,44 +41,38 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Mer<del style="color: rgba(132, 190, 91, 0.4);">ca</del>CASdo</a>
-          </h1>
-          <p class="s-header__tagline">Put your awesome tagline here.</p>
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+                style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
+          <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
       </div>
       <!-- end row -->
       <nav class="s-header__nav-wrap">
         <div class="row">
           <ul class="s-header__nav">
-            <li class="current"><a href="index.html">Info</a></li>
+            <li><a href="index.html">Info</a></li>
             <li class="has-children"><a href="creatividad.html">Creatividad</a>
               <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
+                <li><a href="programacion.html">Programación</a></li>
+                <li><a href="teatro.html">Teatro</a></li>
+                <li><a href="creatividad.html">Más creatividad</a></li>
               </ul>
             </li>
             <li class="has-children"><a href="actividad.html">Actividad</a>
               <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
+                <li><a href="pingpong.html">Ping-pong</a></li>
+                <li><a href="challenge.html">Ejercicio físico</a></li>
+                <li><a href="actividad.html">Más actividad</a></li>
               </ul>
             </li>
             <li class="has-children"><a href="servicio.html">Servicio</a>
               <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
+                <li><a href="ayuda%20mutua.html">Con alumnos</a></li>
+                <li><a href="recogida.html">Con familias</a></li>
+                <li><a href="servicio.html">Más servicio</a></li>
               </ul>
             </li>
-            <li class="has-children"><a href="otros.html">Otros</a>
-              <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
-              </ul>
-            </li>
+            <li><a href="otros.html">Otros</a></li>
             <li><a href="archivo.html">Archivo</a></li>
           </ul>
           <!-- end #nav --> </div>
@@ -199,44 +193,13 @@
           <!-- end entry --> </div>
         <!-- end main -->
         <div id="sidebar" class="s-content__sidebar large-4 column">
-          <div class="widget widget--search">
-            <h3 class="h6">Search</h3>
-            <form action="#"> <input value="Search here..." onblur="if(this.value == '') { this.value = 'Search here...'; }"
-                onfocus="if (this.value == 'Search here...') { this.value = ''; }"
-                class="text-search" type="text"> <input value="" class="submit-search"
-                type="submit"> </form>
-          </div>
           <div class="widget widget--categories">
             <h3 class="h6">Categories.</h3>
             <ul>
-              <li><a href="#0" title="">Wordpress</a> (2)</li>
-              <li><a href="#0" title="">Ghost</a> (14)</li>
-              <li><a href="#0" title="">Joomla</a> (5)</li>
-              <li><a href="#0" title="">Drupal</a> (3)</li>
-              <li><a href="#0" title="">Magento</a> (2)</li>
-              <li><a href="#0" title="">Uncategorized</a> (9)</li>
-            </ul>
-          </div>
-          <div class="widget widget_text group">
-            <h3 class="h6">Widget Text.</h3>
-            <p> Lorem ipsum Ullamco commodo laboris sit dolore commodo aliquip
-              incididunt fugiat esse dolor aute fugiat minim eiusmod do velit
-              labore fugiat officia ad sit culpa labore in consectetur sint
-              cillum sint consectetur voluptate adipisicing Duis irure magna ut
-              sit amet reprehenderit. </p>
-          </div>
-          <div class="widget widget_tags">
-            <h3 class="h6">Post Tags.</h3>
-            <div class="tagcloud group"> <a href="#0">Corporate</a> <a href="#0">Onepage</a>
-              <a href="#0">Agency</a> <a href="#0">Multipurpose</a> <a href="#0">Blog</a>
-              <a href="#0">Landing Page</a> <a href="#0">Resume</a> </div>
-          </div>
-          <div class="widget widget_popular">
-            <h3 class="h6">Popular Post.</h3>
-            <ul class="link-list">
-              <li><a href="#">Sint cillum consectetur voluptate.</a></li>
-              <li><a href="#">Lorem ipsum Ullamco commodo.</a></li>
-              <li><a href="#">Fugiat minim eiusmod do.</a></li>
+              <li><a href="#0" title="">Creatividad</a> (n)</li>
+              <li><a href="#0" title="">Actividad</a> (2432)</li>
+              <li><a href="#0" title="">Servicio</a> (523)</li>
+              <li><a href="#0" title="">Otros</a> (3)</li>
             </ul>
           </div>
         </div>
