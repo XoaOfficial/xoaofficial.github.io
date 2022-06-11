@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <!--- basic page needs
     ================================================== -->
-    <title>Página Genérica</title>
+    <title>Circuito Dibujo Técnico</title>
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- mobile specific metas
@@ -25,8 +25,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
   </head>
-  <body id="top" class="ss-single">
-    <!-- preloader
+  <body id="top" class="ss-single"> <!-- preloader
     ================================================== -->
     <div id="preloader">
       <div id="loader" class="dots-fade">
@@ -41,7 +40,8 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -102,7 +102,8 @@
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content"> <img class="h-pull-right" src="images/circuito%20dibujo.jpg"
+            <div class="entry__content"> <img class="h-pull-right" src="images/circuito%20dibujo.jpg"
+
                 alt="" title="circuito dibujo" style="width: 218px; height: 263px;">
               <p style="text-align: justify;">Hace unos meses, en la asignatura
                 de Dibujo Técnico estudiamos las tangencias: una manera de unir
@@ -111,7 +112,8 @@
                 Uno de los ejercicios que usamos para practicar fue un circuito
                 de carreras, y tuve la idea de aplicar esos conocimientos a un
                 ámbito más ocioso y creativo.</p>
-              <img class="h-pull-left" src="images/circuito%20tm.png" alt="" title="circuito tm"
+              <img class="h-pull-left" src="images/circuito%20tm.png" alt="" title="circuito tm"
+
                 style="width: 174px; height: 275px;">
               <p style="text-align: justify;">Usando el editor de mapas de
                 TrackMania, un videojuego de carreras que te permite diseñar tus
@@ -121,13 +123,16 @@
                 diferentes de mi vida diaria es una sensación buenísima, y
                 aunque no fuera un proyecto muy complejo, estoy muy contento con
                 el resultado.</p>
-              <p style="text-align: justify;">El circuito se puede descargar <a
+              <p style="text-align: justify;">El circuito se puede descargar <a
+
                   href="files/Circuito%20Dibujo%20Tecnico.Map.Gbx">aquí</a> y lo
                 puedes probar si tienes el juego. No es una recreación perfecta
                 debido a las limitaciones del juego, pero representa bastante
                 bien cómo se conduciría si se trasladara a la realidad.</p>
-              <div class="video-container"> <iframe src="videos/circuito%20dibujo%20tecnico.mp4"
-                  webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""
+              <div class="video-container"> <iframe src="videos/circuito%20dibujo%20tecnico.mp4"
+
+                  webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""
+
                   height="281" frameborder="0" width="500"></iframe> </div>
               <!-- entry__content -->
               <ul class="entry__post-nav h-group">
@@ -143,9 +148,12 @@
         <div id="sidebar" class="s-content__sidebar large-4 column">
           <div class="widget widget--search">
             <h3 class="h6">Search</h3>
-            <form action="#0"> <input value="Search here..." onblur="if(this.value == '') { this.value = 'Search here...'; }"
-                onfocus="if (this.value == 'Search here...') { this.value = ''; }"
-                class="text-search" type="text"> <input value="" class="submit-search"
+            <form action="#0"> <input value="Search here..." onblur="if(this.value == '') { this.value = 'Search here...'; }"
+
+                onfocus="if (this.value == 'Search here...') { this.value = ''; }"
+
+                class="text-search" type="text"> <input value="" class="submit-search"
+
                 type="submit"> </form>
           </div>
           <div class="widget widget--categories">
@@ -169,7 +177,8 @@
       </div>
       <!-- end footer__bottom -->
       <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+
               d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
       <!-- end ss-go-top --> </footer>
     <!-- end Footer-->
