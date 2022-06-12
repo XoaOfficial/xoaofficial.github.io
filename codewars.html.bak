@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <!--- basic page needs
     ================================================== -->
-    <title>CodeWars</title>
+    <title>Creatividad</title>
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- mobile specific metas
@@ -25,8 +25,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
   </head>
-  <body id="top" class="ss-single">
-    <!-- preloader
+  <body id="top" class="ss-single"> <!-- preloader
     ================================================== -->
     <div id="preloader">
       <div id="loader" class="dots-fade">
@@ -41,7 +40,8 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -50,35 +50,29 @@
       <nav class="s-header__nav-wrap">
         <div class="row">
           <ul class="s-header__nav">
-            <li class="current"><a href="index.html">Info</a></li>
+            <li><a href="index.html">Info</a></li>
             <li class="has-children"><a href="creatividad.html">Creatividad</a>
               <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
+                <li><a href="programacion.html">Programación</a></li>
+                <li><a href="teatro.html">Teatro</a></li>
+                <li><a href="creatividad.html">Más creatividad</a></li>
               </ul>
             </li>
             <li class="has-children"><a href="actividad.html">Actividad</a>
               <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
+                <li><a href="pingpong.html">Ping-pong</a></li>
+                <li><a href="challenge.html">Ejercicio físico</a></li>
+                <li><a href="actividad.html">Más actividad</a></li>
               </ul>
             </li>
             <li class="has-children"><a href="servicio.html">Servicio</a>
               <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
+                <li><a href="ayuda%20mutua.html">Con alumnos</a></li>
+                <li><a href="recogida.html">Con familias</a></li>
+                <li><a href="servicio.html">Más servicio</a></li>
               </ul>
             </li>
-            <li class="has-children"><a href="otros.html">Otros</a>
-              <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
-              </ul>
-            </li>
+            <li><a href="otros.html">Otros</a></li>
             <li><a href="archivo.html">Archivo</a></li>
           </ul>
           <!-- end #nav --> </div>
@@ -103,9 +97,11 @@
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
+            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
+
                 srcset="images/wheel-1000.jpg 1000w, 
-                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
+                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
+
                 alt=""> </div>
             <div class="entry__content">
               <p>Unos meses después de empezar a programar, en el taller nos
@@ -115,14 +111,20 @@
                 Lo vi como una buena oportunidad para mejorar y probar mi nivel,
                 así que me apunté con mis amigos Héctor y Nicolas, quienes
                 también van al taller de programación.</p>
-              <p>Estuvimos unas</p>
-              <p> Placeat quam fugit qui quia. Non quasi tempore qui illo. Dolor
-                magni ducimus doloribus rerum dolorem. Cum iste et commodi
-                doloremque. At veniam aperiam eum voluptates maiores iure
-                facere. Cupiditate vero similique ut sed aut. Est sint
-                laboriosam quia totam fugit. Necessitatibus sed ut autem eveniet
-                mollitia. Temporibus ducimus officiis aut est quaerat fuga est
-                ut aut. </p>
+              <p>Estuvimos unas semanas practicando con ejercicios de otros
+                años, expandiendo algunos conceptos y buscando maneras de
+                optimizar nuestro código, hasta que llegó el día de la
+                competición. Empezamos bien, resolviendo algunos problemas
+                fáciles y planteando otros más complejos, pero rápidamente nos
+                dimos cuenta de un gran error: uno de los portátiles no tenía
+                cable para cargar. Tuvimos que adaptarnos rápidamente e
+                improvisar alguna otra manera de poder trabajar los tres a la
+                vez, y aunque encontramos una alternativa, ya habíamos perdido
+                unos 15 minutos.</p>
+              <p>Al final remontamos y quedamos décimos, pero estuvimos todos de
+                acuerdo en que habría que haber planificado mejor nuestros
+                planes de "por si acaso". En general fue una experiencia muy
+                divertida, y querría repetirla para el año que viene.</p>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Tagged in </span>: <a href="#0">orci</a>,
@@ -140,9 +142,12 @@
         <div id="sidebar" class="s-content__sidebar large-4 column">
           <div class="widget widget--search">
             <h3 class="h6">Search</h3>
-            <form action="#0"> <input value="Search here..." onblur="if(this.value == '') { this.value = 'Search here...'; }"
-                onfocus="if (this.value == 'Search here...') { this.value = ''; }"
-                class="text-search" type="text"> <input value="" class="submit-search"
+            <form action="#0"> <input value="Search here..." onblur="if(this.value == '') { this.value = 'Search here...'; }"
+
+                onfocus="if (this.value == 'Search here...') { this.value = ''; }"
+
+                class="text-search" type="text"> <input value="" class="submit-search"
+
                 type="submit"> </form>
           </div>
           <div class="widget widget--categories">
@@ -166,7 +171,8 @@
       </div>
       <!-- end footer__bottom -->
       <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+
               d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
       <!-- end ss-go-top --> </footer>
     <!-- end Footer-->

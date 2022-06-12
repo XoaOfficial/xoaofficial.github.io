@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <!--- basic page needs
     ================================================== -->
-    <title>Creatividad</title>
+    <title>Ping-Pong</title>
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- mobile specific metas
@@ -87,11 +87,11 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> <a href="single.html" title="">¿Me
-                  lo expliCAS?</a> </h2>
+              <h2 class="entry__title h1">Tenis... con caniCAS<br>
+              </h2>
               <div class="entry__meta">
                 <ul>
-                  <li>Ayuda Mutua</li>
+                  <li>Ping-Pong</li>
                   <li><a href="#" title="" rel="category tag">etiquetas creo</a></li>
                 </ul>
               </div>
@@ -102,24 +102,23 @@
                                      images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
                 alt=""> </div>
             <div class="entry__content">
-              <p>Entre las opciones de talleres para la ESO que se dan en el
-                Ramiro, se encuentra Ayuda Mutua, una hora y media de estudio,
-                repaso y deberes en las que los alumnos pueden preguntar dudas,
-                avanzar en proyectos y recibir explicaciones alternativas de los
-                monitores. Pero ¿quiénes son estos "profesores"? Diferentes
-                alumnos de Bachillerato Internacional, que ayudan a los niños a
-                entender su temario mientras reciben ayuda para hacer
-                actividades de servicio para CAS.</p>
-              <p>En general, es una experiencia muy positiva: poder ayudar a
-                otros estudiantes con conceptos o temas que me costaron entender
-                en su tiempo es muy gratificante, y a veces hasta he podido
-                aprender yo mismo interpretaciones alternativas del temario de
-                la ESO. Sin embargo, como encargado de la "clase", me tengo que
-                asegurar de que haya un ambiente decente de estudio, y esa es
-                una tarea mucho más difícil de lo que pensaba, y a veces me ha
-                llevado a frustrarme.</p>
-              <p>A pesar de eso, la extraescolar sigue siendo de mis favoritas y
-                la recomendaría sin duda, ya sea como alumno o como profesor.</p>
+              <p>Antes de empezar el año escolar, ya me interesaba la
+                programación. No había llegado a ponerme en serio, pero sí había
+                tocado diferentes herramientas: Scratch, HTML, JavaScript... Sin
+                embargo, nunca había llegado a profundizar en nada, y siempre me
+                quedaba sin motivación muy rápidamente.</p>
+              <p>El taller de programación del Ramiro, Sui Géneris, era la
+                oportunidad perfecta para ponerme en serio, y realmente mereció
+                la pena. Fui aprendiendo Python poco a poco, y aunque a veces
+                era confuso, con persistencia y ganas he descubierto una de mis
+                idkkk</p>
+              <p> Placeat quam fugit qui quia. Non quasi tempore qui illo. Dolor
+                magni ducimus doloribus rerum dolorem. Cum iste et commodi
+                doloremque. At veniam aperiam eum voluptates maiores iure
+                facere. Cupiditate vero similique ut sed aut. Est sint
+                laboriosam quia totam fugit. Necessitatibus sed ut autem eveniet
+                mollitia. Temporibus ducimus officiis aut est quaerat fuga est
+                ut aut. </p>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Tagged in </span>: <a href="#0">orci</a>,

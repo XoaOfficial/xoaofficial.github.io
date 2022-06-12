@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <!--- basic page needs
     ================================================== -->
-    <title>Creatividad</title>
+    <title>Recogida de alimentos</title>
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- mobile specific metas
@@ -87,11 +87,12 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> <a href="single.html" title="">¿Me
-                  lo expliCAS?</a> </h2>
+              <h2 class="entry__title h1">Comida de todo tipo... menos carne de
+                vaCAS<br>
+              </h2>
               <div class="entry__meta">
                 <ul>
-                  <li>Ayuda Mutua</li>
+                  <li>Recogida de alimentos</li>
                   <li><a href="#" title="" rel="category tag">etiquetas creo</a></li>
                 </ul>
               </div>
@@ -102,24 +103,33 @@
                                      images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
                 alt=""> </div>
             <div class="entry__content">
-              <p>Entre las opciones de talleres para la ESO que se dan en el
-                Ramiro, se encuentra Ayuda Mutua, una hora y media de estudio,
-                repaso y deberes en las que los alumnos pueden preguntar dudas,
-                avanzar en proyectos y recibir explicaciones alternativas de los
-                monitores. Pero ¿quiénes son estos "profesores"? Diferentes
-                alumnos de Bachillerato Internacional, que ayudan a los niños a
-                entender su temario mientras reciben ayuda para hacer
-                actividades de servicio para CAS.</p>
-              <p>En general, es una experiencia muy positiva: poder ayudar a
-                otros estudiantes con conceptos o temas que me costaron entender
-                en su tiempo es muy gratificante, y a veces hasta he podido
-                aprender yo mismo interpretaciones alternativas del temario de
-                la ESO. Sin embargo, como encargado de la "clase", me tengo que
-                asegurar de que haya un ambiente decente de estudio, y esa es
-                una tarea mucho más difícil de lo que pensaba, y a veces me ha
-                llevado a frustrarme.</p>
-              <p>A pesar de eso, la extraescolar sigue siendo de mis favoritas y
-                la recomendaría sin duda, ya sea como alumno o como profesor.</p>
+              <p>A mediados de enero, decidí apuntarme a una recogida de
+                alimentos, con objetivo de ayudar a familias afectadas por la
+                pandemia. Fuimos unos cuantos compañeros de clase, y a mí me
+                asignaron un supermercado pequeño en una calle secundaria, con
+                Lucía.</p>
+              <p>Al principio se hizo bastante aburrido, dado que no pasaba
+                mucha gente, pero después de un poco empezamos a apreciar más la
+                calma del sitio, y las diferentes maneras de comportarse de los
+                clientes. Como era de esperar, hubo algunos que simplemente nos
+                ignoraban o compraban lo mínimo necesario, pero lo que más me
+                sorprendió fueron las personas que intentaban ayudar
+                activamente.</p>
+              <p>Quiero destacar el caso de una persona mayor, que después de
+                charlar un rato con nosotros y preguntar qué tipo de comida era
+                la más útil, estuvo ayudando a unos vecinos a cargar muebles
+                para su mudanza, a unos turistas a encontrar la estación de
+                metro, y a un amigo suyo con sus dudas de idiomas, todo de una
+                manera muy alegre y jovial: se notaba que le gustaba ayudar a
+                los demás, y que lo hacía sin buscar un beneficio a cambio de
+                ello.</p>
+              <p>La recogida en general fue una experiencia extremadamente
+                positiva, no solo por la calma de la actividad sino por sus
+                consecuencias, y creo que fue una de las mejores mañanas de fin
+                de semana de todo el curso. Sin duda me hizo apreciar mucho más
+                la importancia y el valor de colaborar con lo que uno puede, y
+                repetiré la experiencia el curso que viene en cuanto tenga la
+                oportunidad.</p>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Tagged in </span>: <a href="#0">orci</a>,
@@ -132,16 +142,7 @@
                     Article</strong> Morbi Elit Consequat Ipsum</a></li>
             </ul>
           </article>
-          <!-- end entry --> </div>
-        <!-- end main -->
-        <div id="sidebar" class="s-content__sidebar large-4 column">
-          <div class="widget widget--search">
-            <h3 class="h6">Search</h3>
-            <form action="#0"> <input value="Search here..." onblur="if(this.value == '') { this.value = 'Search here...'; }"
-                onfocus="if (this.value == 'Search here...') { this.value = ''; }"
-                class="text-search" type="text"> <input value="" class="submit-search"
-                type="submit"> </form>
-          </div>
+          <!-- end entry -->
           <div class="widget widget--categories">
             <h3 class="h6">Categories.</h3>
             <ul>
