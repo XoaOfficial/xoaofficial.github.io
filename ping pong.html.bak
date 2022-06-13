@@ -41,7 +41,8 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -92,37 +93,33 @@
               <div class="entry__meta">
                 <ul>
                   <li>Ping-Pong</li>
-                  <li><a href="#" title="" rel="category tag">etiquetas creo</a></li>
+                  <li><a href="actividad.html" rel="category tag">Actividad</a></li>
                 </ul>
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
+            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
+
                 srcset="images/wheel-1000.jpg 1000w, 
-                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
+                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
+
                 alt=""> </div>
             <div class="entry__content">
-              <p>Antes de empezar el año escolar, ya me interesaba la
-                programación. No había llegado a ponerme en serio, pero sí había
-                tocado diferentes herramientas: Scratch, HTML, JavaScript... Sin
-                embargo, nunca había llegado a profundizar en nada, y siempre me
-                quedaba sin motivación muy rápidamente.</p>
-              <p>El taller de programación del Ramiro, Sui Géneris, era la
-                oportunidad perfecta para ponerme en serio, y realmente mereció
-                la pena. Fui aprendiendo Python poco a poco, y aunque a veces
-                era confuso, con persistencia y ganas he descubierto una de mis
-                idkkk</p>
-              <p> Placeat quam fugit qui quia. Non quasi tempore qui illo. Dolor
-                magni ducimus doloribus rerum dolorem. Cum iste et commodi
-                doloremque. At veniam aperiam eum voluptates maiores iure
-                facere. Cupiditate vero similique ut sed aut. Est sint
-                laboriosam quia totam fugit. Necessitatibus sed ut autem eveniet
-                mollitia. Temporibus ducimus officiis aut est quaerat fuga est
-                ut aut. </p>
+              <p>Ya había jugado bastante tiempo al ping-pong antes de venir al
+                instituto, pero nunca de una manera competitiva ni muy seria,
+                sino más relajado y por diversión. Sin embargo, en el taller de
+                ping-pong me lo podía tomar más seriamente, sin dejar de lado la
+                parte divertida pero sí con ganas de mejorar mi habilidad.</p>
+              <p>Semanalmente fui aprendiendo diferentes técnicas y fui
+                mejorando poco a poco. Todavía no soy capaz de ganarle a los
+                mejores jugadores del instituto, pero yo he notado una mejora
+                clara y progresiva a lo largo del curso.</p>
+              <p>Las clases en sí son muy entretenidas y me lo paso muy bien, y
+                el ping-pong es sin duda uno de mis deportes favoritos hoy en
+                día, ya sea como ocio o para ponerme en serio a intentar ganar.</p>
             </div>
             <!-- entry__content -->
-            <p class="entry__tags"> <span>Tagged in </span>: <a href="#0">orci</a>,
-              <a href="#0">lectus</a>, <a href="#0">varius</a>, <a href="#0">turpis</a>
+            <p class="entry__tags"> <span>Etiquetado en </span>: <a href="actividad.html">Actividad</a>
             </p>
             <ul class="entry__post-nav h-group">
               <li class="prev"><a rel="prev" href="#0"><strong class="h6">Previous
@@ -131,23 +128,14 @@
                     Article</strong> Morbi Elit Consequat Ipsum</a></li>
             </ul>
           </article>
-          <!-- end entry --> </div>
-        <!-- end main -->
-        <div id="sidebar" class="s-content__sidebar large-4 column">
-          <div class="widget widget--search">
-            <h3 class="h6">Search</h3>
-            <form action="#0"> <input value="Search here..." onblur="if(this.value == '') { this.value = 'Search here...'; }"
-                onfocus="if (this.value == 'Search here...') { this.value = ''; }"
-                class="text-search" type="text"> <input value="" class="submit-search"
-                type="submit"> </form>
-          </div>
+          <!-- end entry -->
           <div class="widget widget--categories">
-            <h3 class="h6">Categories.</h3>
+            <h3 class="h6">Etiquetas</h3>
             <ul>
-              <li><a href="#0" title="">Creatividad</a> (n)</li>
-              <li><a href="#0" title="">Actividad</a> (2432)</li>
-              <li><a href="#0" title="">Servicio</a> (523)</li>
-              <li><a href="#0" title="">Otros</a> (3)</li>
+              <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
+              <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
+              <li><a href="servicio.html" title="">Servicio</a> (523)</li>
+              <li><a href="otros.html" title="">Otros</a> (3)</li>
             </ul>
           </div>
         </div>
@@ -162,7 +150,8 @@
       </div>
       <!-- end footer__bottom -->
       <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+
               d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
       <!-- end ss-go-top --> </footer>
     <!-- end Footer-->
@@ -170,5 +159,6 @@
     ================================================== -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/main.js"></script>
+    
   </body>
 </html>

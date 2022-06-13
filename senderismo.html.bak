@@ -41,7 +41,8 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -50,35 +51,29 @@
       <nav class="s-header__nav-wrap">
         <div class="row">
           <ul class="s-header__nav">
-            <li class="current"><a href="index.html">Info</a></li>
+            <li><a href="index.html">Info</a></li>
             <li class="has-children"><a href="creatividad.html">Creatividad</a>
               <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
+                <li><a href="programacion.html">Programación</a></li>
+                <li><a href="teatro.html">Teatro</a></li>
+                <li><a href="creatividad.html">Más creatividad</a></li>
               </ul>
             </li>
             <li class="has-children"><a href="actividad.html">Actividad</a>
               <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
+                <li><a href="pingpong.html">Ping-pong</a></li>
+                <li><a href="challenge.html">Ejercicio físico</a></li>
+                <li><a href="actividad.html">Más actividad</a></li>
               </ul>
             </li>
             <li class="has-children"><a href="servicio.html">Servicio</a>
               <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
+                <li><a href="ayuda%20mutua.html">Con alumnos</a></li>
+                <li><a href="recogida.html">Con familias</a></li>
+                <li><a href="servicio.html">Más servicio</a></li>
               </ul>
             </li>
-            <li class="has-children"><a href="otros.html">Otros</a>
-              <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
-              </ul>
-            </li>
+            <li><a href="otros.html">Otros</a></li>
             <li><a href="archivo.html">Archivo</a></li>
           </ul>
           <!-- end #nav --> </div>
@@ -93,42 +88,41 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> <a href="single.html" title="">CAScadas
+              <h2 class="entry__title h1"> <a href="#" title="">CAScadas
                   congeladas en Riaza</a> </h2>
               <div class="entry__meta">
                 <ul>
-                  <li>fecha pero probablemente la quite</li>
-                  <li><a href="#" title="" rel="category tag">etiquetas creo</a></li>
+                  <li>Senderismo</li>
+                  <li><a href="actividad.html" title="" rel="category tag">Actividad</a></li>
                 </ul>
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
+            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
+
                 srcset="images/wheel-1000.jpg 1000w, 
-                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
+                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
+
                 alt=""> </div>
             <div class="entry__content">
-              <p>Antes de empezar el año escolar, ya me interesaba la
-                programación. No había llegado a ponerme en serio, pero sí había
-                tocado diferentes herramientas: Scratch, HTML, JavaScript... Sin
-                embargo, nunca había llegado a profundizar en nada, y siempre me
-                quedaba sin motivación muy rápidamente.</p>
-              <p>El taller de programación del Ramiro, Sui Géneris, era la
-                oportunidad perfecta para ponerme en serio, y realmente mereció
-                la pena. Fui aprendiendo Python poco a poco, y aunque a veces
-                era confuso, con persistencia y ganas he descubierto una de mis
-                idkkk</p>
-              <p> Placeat quam fugit qui quia. Non quasi tempore qui illo. Dolor
-                magni ducimus doloribus rerum dolorem. Cum iste et commodi
-                doloremque. At veniam aperiam eum voluptates maiores iure
-                facere. Cupiditate vero similique ut sed aut. Est sint
-                laboriosam quia totam fugit. Necessitatibus sed ut autem eveniet
-                mollitia. Temporibus ducimus officiis aut est quaerat fuga est
-                ut aut. </p>
+              <p>Este principio de año lo pasé en una casa rural con unos
+                amigos, en Riofrío de Riza, un pueblo de la provincia de
+                Segovia. Y ¿qué mejor manera de empezar el año que con un poco
+                de ejercicio por el campo? El 1 de enero hicimos una ruta
+                circular por el Puerto de la Quesera, de alrededor de 4 horas.</p>
+              <p>El paseo se hizo muy entretenido y llevadero, no solo por la
+                compañía sino por la ruta en sí. Las vistas desde arriba eran
+                increíbles, y el paisaje precioso. A pesar de que me cansé un
+                poco alrededor de la mitad del trayecto, logré retomar la forma
+                y continuar subiendo.</p>
+              <p>Otro aspecto buenísimo fueron los sitios por los que pasaba la
+                ruta: vimos la frontera entre dos provincias, llegamos a lo alto
+                de una colina, y pasamos por algunas cascadas
+                congeladas. Me gustó mucho la experiencia, y me encantaría hacer
+                alguna otra ruta similar.</p>
             </div>
             <!-- entry__content -->
-            <p class="entry__tags"> <span>Tagged in </span>: <a href="#0">orci</a>,
-              <a href="#0">lectus</a>, <a href="#0">varius</a>, <a href="#0">turpis</a>
+            <p class="entry__tags"> <span>Etiquetado en </span>: <a href="actividad.html">Actividad</a>
             </p>
             <ul class="entry__post-nav h-group">
               <li class="prev"><a rel="prev" href="#0"><strong class="h6">Previous
@@ -137,44 +131,36 @@
                     Article</strong> Morbi Elit Consequat Ipsum</a></li>
             </ul>
           </article>
-          <!-- end entry --> </div>
-        <!-- end main -->
-        <div id="sidebar" class="s-content__sidebar large-4 column">
-          <div class="widget widget--search">
-            <h3 class="h6">Search</h3>
-            <form action="#0"> <input value="Search here..." onblur="if(this.value == '') { this.value = 'Search here...'; }"
-                onfocus="if (this.value == 'Search here...') { this.value = ''; }"
-                class="text-search" type="text"> <input value="" class="submit-search"
-                type="submit"> </form>
-          </div>
+          <!-- end entry -->
           <div class="widget widget--categories">
-            <h3 class="h6">Categories.</h3>
+            <h3 class="h6">Etiquetas</h3>
             <ul>
-              <li><a href="#0" title="">Creatividad</a> (n)</li>
-              <li><a href="#0" title="">Actividad</a> (2432)</li>
-              <li><a href="#0" title="">Servicio</a> (523)</li>
-              <li><a href="#0" title="">Otros</a> (3)</li>
+              <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
+              <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
+              <li><a href="servicio.html" title="">Servicio</a> (523)</li>
+              <li><a href="otros.html" title="">Otros</a> (3)</li>
             </ul>
           </div>
         </div>
         <!-- end sidebar --> </div>
-      <!-- end row --> </div>
-    <!-- end content-wrap -->
-    <!-- Footer
+      <!-- end row -->
+      <!-- end content-wrap -->
+      <!-- Footer
     ================================================== -->
-    <footer class="s-footer">
-      <div class="ss-copyright" style="text-align: center;"> <span>© Copyright
-          Keep It Simple 2019</span>&nbsp; <span>Template design by <a href="https://www.styleshout.com/">StyleShout</a></span>
-      </div>
-      <!-- end footer__bottom -->
-      <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
-              d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
-      <!-- end ss-go-top --> </footer>
-    <!-- end Footer-->
-    <!-- Java Script
+      <footer class="s-footer">
+        <div class="ss-copyright" style="text-align: center;"> <span>©
+            Copyright Keep It Simple 2019</span>&nbsp; <span>Template design by
+            <a href="https://www.styleshout.com/">StyleShout</a></span> </div>
+        <!-- end footer__bottom -->
+        <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+
+                d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
+        <!-- end ss-go-top --> </footer>
+      <!-- end Footer-->
+      <!-- Java Script
     ================================================== -->
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/main.js"></script>
+      <script src="js/jquery-3.2.1.min.js"></script>
+      <script src="js/main.js"></script> </div>
   </body>
 </html>

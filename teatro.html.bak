@@ -41,7 +41,8 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -50,35 +51,29 @@
       <nav class="s-header__nav-wrap">
         <div class="row">
           <ul class="s-header__nav">
-            <li class="current"><a href="index.html">Info</a></li>
+            <li><a href="index.html">Info</a></li>
             <li class="has-children"><a href="creatividad.html">Creatividad</a>
               <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
+                <li><a href="programacion.html">Programación</a></li>
+                <li><a href="teatro.html">Teatro</a></li>
+                <li><a href="creatividad.html">Más creatividad</a></li>
               </ul>
             </li>
             <li class="has-children"><a href="actividad.html">Actividad</a>
               <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
+                <li><a href="pingpong.html">Ping-pong</a></li>
+                <li><a href="challenge.html">Ejercicio físico</a></li>
+                <li><a href="actividad.html">Más actividad</a></li>
               </ul>
             </li>
             <li class="has-children"><a href="servicio.html">Servicio</a>
               <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
+                <li><a href="ayuda%20mutua.html">Con alumnos</a></li>
+                <li><a href="recogida.html">Con familias</a></li>
+                <li><a href="servicio.html">Más servicio</a></li>
               </ul>
             </li>
-            <li class="has-children"><a href="otros.html">Otros</a>
-              <ul>
-                <li><a href="#0">Submenu 01</a></li>
-                <li><a href="#0">Submenu 02</a></li>
-                <li><a href="#0">Submenu 03</a></li>
-              </ul>
-            </li>
+            <li><a href="otros.html">Otros</a></li>
             <li><a href="archivo.html">Archivo</a></li>
           </ul>
           <!-- end #nav --> </div>
@@ -98,14 +93,16 @@
               <div class="entry__meta">
                 <ul>
                   <li>Teatro</li>
-                  <li><a href="#" title="" rel="category tag">etiquetas creo</a></li>
+                  <li><a href="creatividad.html" title="" rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
+            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
+
                 srcset="images/wheel-1000.jpg 1000w, 
-                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
+                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
+
                 alt=""> </div>
             <div class="entry__content">
               <p>El teatro siempre ha sido una de mis extraescolares favoritas
@@ -140,8 +137,7 @@
                   obra, habrá otra con la perspectiva del proyecto terminado)</i></p>
             </div>
             <!-- entry__content -->
-            <p class="entry__tags"> <span>Tagged in </span>: <a href="#0">orci</a>,
-              <a href="#0">lectus</a>, <a href="#0">varius</a>, <a href="#0">turpis</a>
+            <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a>
             </p>
             <ul class="entry__post-nav h-group">
               <li class="prev"><a rel="prev" href="#0"><strong class="h6">Previous
@@ -153,20 +149,13 @@
           <!-- end entry --> </div>
         <!-- end main -->
         <div id="sidebar" class="s-content__sidebar large-4 column">
-          <div class="widget widget--search">
-            <h3 class="h6">Search</h3>
-            <form action="#0"> <input value="Search here..." onblur="if(this.value == '') { this.value = 'Search here...'; }"
-                onfocus="if (this.value == 'Search here...') { this.value = ''; }"
-                class="text-search" type="text"> <input value="" class="submit-search"
-                type="submit"> </form>
-          </div>
           <div class="widget widget--categories">
-            <h3 class="h6">Categories.</h3>
+            <h3 class="h6">Etiquetas</h3>
             <ul>
-              <li><a href="#0" title="">Creatividad</a> (n)</li>
-              <li><a href="#0" title="">Actividad</a> (2432)</li>
-              <li><a href="#0" title="">Servicio</a> (523)</li>
-              <li><a href="#0" title="">Otros</a> (3)</li>
+              <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
+              <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
+              <li><a href="servicio.html" title="">Servicio</a> (523)</li>
+              <li><a href="otros.html" title="">Otros</a> (3)</li>
             </ul>
           </div>
         </div>
@@ -181,7 +170,8 @@
       </div>
       <!-- end footer__bottom -->
       <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+
               d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
       <!-- end ss-go-top --> </footer>
     <!-- end Footer-->
@@ -189,5 +179,6 @@
     ================================================== -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/main.js"></script>
+    
   </body>
 </html>

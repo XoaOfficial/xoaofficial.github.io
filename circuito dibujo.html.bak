@@ -25,7 +25,8 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
   </head>
-  <body id="top" class="ss-single"> <!-- preloader
+  <body id="top" class="ss-single">
+    <!-- preloader
     ================================================== -->
     <div id="preloader">
       <div id="loader" class="dots-fade">
@@ -91,6 +92,7 @@
               </h2>
               <div class="entry__meta">
                 <ul>
+                  <li>Circuito dibujo técnico</li>
                   <li><a href="creatividad.html" title="" rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
@@ -129,39 +131,27 @@
 
                   height="281" frameborder="0" width="500"></iframe> </div>
               <!-- entry__content -->
-              <ul class="entry__post-nav h-group">
-                <li class="prev"><a rel="prev" href="#0"><strong class="h6">Previous
-                      Article</strong> Duis Sed Odio Sit Amet Nibh Vulputate</a></li>
-                <li class="next"><a rel="next" href="#0"><strong class="h6">Next
-                      Article</strong> Morbi Elit Consequat Ipsum</a></li>
-              </ul>
-            </div>
-          </article>
-          <!-- end entry --> </div>
-        <!-- end main -->
-        <div id="sidebar" class="s-content__sidebar large-4 column">
-          <div class="widget widget--search">
-            <h3 class="h6">Search</h3>
-            <form action="#0"> <input value="Search here..." onblur="if(this.value == '') { this.value = 'Search here...'; }"
-
-                onfocus="if (this.value == 'Search here...') { this.value = ''; }"
-
-                class="text-search" type="text"> <input value="" class="submit-search"
-
-                type="submit"> </form>
-          </div>
-          <div class="widget widget--categories">
-            <h3 class="h6">Categories.</h3>
-            <ul>
-              <li><a href="#0" title="">Creatividad</a> (n)</li>
-              <li><a href="#0" title="">Actividad</a> (2432)</li>
-              <li><a href="#0" title="">Servicio</a> (523)</li>
-              <li><a href="#0" title="">Otros</a> (3)</li>
+              <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a>,
+              <a href="actividad.html">Actividad</a> </p>
+            <ul class="entry__post-nav h-group">
+              <li class="prev"><a rel="prev" href="#0"><strong class="h6">Previous
+                    Article</strong> Duis Sed Odio Sit Amet Nibh Vulputate</a></li>
+              <li class="next"><a rel="next" href="#0"><strong class="h6">Next
+                    Article</strong> Morbi Elit Consequat Ipsum</a></li>
             </ul>
-          </div>
+          <!-- end entry -->
+          <div class="widget widget--categories">
+            <h3 class="h6">Etiquetas</h3>
+            <ul>
+              <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
+              <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
+              <li><a href="servicio.html" title="">Servicio</a> (523)</li>
+              <li><a href="otros.html" title="">Otros</a> (3)</li>
+            </ul>
         </div>
-        <!-- end sidebar --> </div>
-      <!-- end row --> </div>
+      </div>
+      <!-- end sidebar -->
+    <!-- end row -->
     <!-- end content-wrap -->
     <!-- Footer
     ================================================== -->
