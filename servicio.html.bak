@@ -41,8 +41,7 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
-
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -89,7 +88,8 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="ayuda mutua.html" title="">¿Me lo expliCAS?</a></h2>
+              <h2 class="entry__title h1"><a href="ayuda%20mutua.html" title="">¿Me
+                  lo expliCAS?</a></h2>
               <h2 class="entry__title h1"> </h2>
               <div class="entry__meta">
                 <ul>
@@ -104,11 +104,12 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="recogida.html" title="">Comida de todo tipo... menos carne de vaCAS</a></h2>
+              <h2 class="entry__title h1"><a href="recogida.html" title="">Comida
+                  de todo tipo... menos carne de vaCAS</a></h2>
               <h2 class="entry__title h1"> </h2>
               <div class="entry__meta">
                 <ul>
-                  <li>Ayuda Mutua</li>
+                  <li>Recogida de alimentos</li>
                   <li><a href="servicio.html" title="" rel="category tag">Servicio</a></li>
                 </ul>
               </div>
@@ -118,37 +119,40 @@
           <!-- end entry -->
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="ayuda mutua.html" title="">¿Me lo expliCAS?</a></h2>
-              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"> <a href="taller%20programacion.html"
+                  title="">dhjgdfjhg Taller de programación</a> </h2>
               <div class="entry__meta">
                 <ul>
-                  <li>Ayuda Mutua</li>
-                  <li><a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                  <li>Taller de programación</li>
+                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+                      rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
             </header>
-            <div class="entry__content"> </div>
           </article>
           <!-- end entry -->
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="ayuda mutua.html" title="">¿Me lo expliCAS?</a></h2>
               <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"></h2>
+              <h2 class="entry__title h1"><a href="devcc.html" title="">Definiciones
+                  bastante épiCAS </a></h2>
               <div class="entry__meta">
                 <ul>
-                  <li>Ayuda Mutua</li>
-                  <li><a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                  <li>Diccionario Etimológico de Vocabulario Coloquial
+                    Contemporáneo</li>
+                  <li> <br>
+                  </li>
+                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+                      rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
             </header>
-            <div class="entry__content"> </div>
           </article>
           <!-- end entry -->
           <!-- page nav -->
-          <div class="post-list-nav"> <a rel="prev" href="#0">Prev</a> <a rel="next"
-
+          <div class="post-list-nav"> <a rel="prev" href="#0">Prev</a> <a rel="next"
               href="#0">Next</a> </div>
         </div>
         <!-- end main -->
@@ -174,8 +178,7 @@
       </div>
       <!-- end footer__bottom -->
       <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
-
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
               d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
       <!-- end ss-go-top --> </footer>
     <!-- end Footer-->
@@ -183,6 +186,5 @@
     ================================================== -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/main.js"></script>
-    
   </body>
 </html>

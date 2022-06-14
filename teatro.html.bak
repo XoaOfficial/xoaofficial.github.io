@@ -25,8 +25,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
   </head>
-  <body id="top" class="ss-single">
-    <!-- preloader
+  <body id="top" class="ss-single"> <!-- preloader
     ================================================== -->
     <div id="preloader">
       <div id="loader" class="dots-fade">
@@ -88,8 +87,7 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> <a href="single.html" title="">Ni
-                  Disney tiene tan buen CASting</a> </h2>
+              <h2 class="entry__title h1"> Ni Disney tiene tan buen CASting </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Teatro</li>
@@ -179,6 +177,5 @@
     ================================================== -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/main.js"></script>
-    
   </body>
 </html>

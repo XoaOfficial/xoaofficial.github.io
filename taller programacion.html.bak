@@ -88,7 +88,8 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1">buscar chiste para taller<br>
+              <h2 class="entry__title h1">Le das al botón, y arranCAS el
+                programa<br>
               </h2>
               <div class="entry__meta">
                 <ul>
@@ -99,12 +100,9 @@
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
+            <div class="entry__content-media"> <img src="images/taller1.jpg"
 
-                srcset="images/wheel-1000.jpg 1000w, 
-                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
-
-                alt=""> </div>
+                  alt=""> </div>
             <div class="entry__content">
               <p>Después de unos meses asistiendo semanalmente al taller de
                 programación del instituto, y de haber pasado por la experiencia
@@ -123,8 +121,8 @@
                 enseñando.</p>
             </div>
             <!-- entry__content -->
-            <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a>,
-              <a href="servicio.html">Servicio</a> </p>
+            <p class="entry__tags"> <span>Etiquetado en </span>: <a href="servicio.html">Servicio</a>,
+              <a href="creatividad.html">Creatividad</a> </p>
             <ul class="entry__post-nav h-group">
               <li class="prev"><a rel="prev" href="#0"><strong class="h6">Previous
                     Article</strong> Duis Sed Odio Sit Amet Nibh Vulputate</a></li>
@@ -132,7 +130,9 @@
                     Article</strong> Morbi Elit Consequat Ipsum</a></li>
             </ul>
           </article>
-          <!-- end entry -->
+          <!-- end entry --> </div>
+        <!-- end main -->
+        <div id="sidebar" class="s-content__sidebar large-4 column">
           <div class="widget widget--categories">
             <h3 class="h6">Etiquetas</h3>
             <ul>
@@ -144,25 +144,25 @@
           </div>
         </div>
         <!-- end sidebar --> </div>
-      <!-- end row --> </div>
-    <!-- end content-wrap -->
-    <!-- Footer
+      <!-- end row -->
+      <!-- end content-wrap -->
+      <!-- Footer
     ================================================== -->
-    <footer class="s-footer">
-      <div class="ss-copyright" style="text-align: center;"> <span>© Copyright
-          Keep It Simple 2019</span>&nbsp; <span>Template design by <a href="https://www.styleshout.com/">StyleShout</a></span>
-      </div>
-      <!-- end footer__bottom -->
-      <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+      <footer class="s-footer">
+        <div class="ss-copyright" style="text-align: center;"> <span>©
+            Copyright Keep It Simple 2019</span>&nbsp; <span>Template design by
+            <a href="https://www.styleshout.com/">StyleShout</a></span> </div>
+        <!-- end footer__bottom -->
+        <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
 
-              d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
-      <!-- end ss-go-top --> </footer>
-    <!-- end Footer-->
-    <!-- Java Script
+                d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
+        <!-- end ss-go-top --> </footer>
+      <!-- end Footer-->
+      <!-- Java Script
     ================================================== -->
-    <script src="js/jquery-3.2.1.min.js"></script>
-    <script src="js/main.js"></script>
+      <script src="js/jquery-3.2.1.min.js"></script>
+      <script src="js/main.js"></script> </div>
     
   </body>
 </html>

@@ -89,23 +89,16 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="single.html" title="">Resolviendo
-                  problemas CASo a CASo</a></h2>
+              <h2 class="entry__title h1">Resolviendo problemas CASo a CASo</h2>
               <h2 class="entry__title h1"> </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Programación</li>
-                  <li><a href="#" title="" rel="category tag">Creatividad</a></li>
+                  <li><a href="creatividad.html" title="" rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
-
-                srcset="images/wheel-1000.jpg 1000w, 
-                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
-
-                alt=""> </div>
             <div class="entry__content">
               <p>Antes de empezar el año escolar, ya me interesaba la
                 programación. No había llegado a ponerme en serio, pero sí había
@@ -117,6 +110,9 @@
                 la pena. Fui aprendiendo Python poco a poco, y aunque a veces
                 era confuso, con persistencia y ganas he descubierto una de mis
                 actividades de creatividad favoritas.</p>
+              <div class="entry__content-media"> <img src="images/python1.jpg"
+
+                  alt=""> </div>
               <p>Hemos aprendido de una manera muy orientada a problemas, de
                 manera que poco a poco fuimos siendo capaces de analizar
                 situaciones más complejas, y una de mis cosas favoritas es el
@@ -125,6 +121,9 @@
                 aprendizaje y la diversión. Sin duda fue una buena decisión, <i>y
                   más adelante la programación tendrá un mayor protagonismo en
                   la carpeta CAS...</i></p>
+              <div class="entry__content-media"> <img src="images/python2.jpg"
+
+                  alt=""> </div>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a>
@@ -168,5 +167,6 @@
     ================================================== -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/main.js"></script>
+    
   </body>
 </html>

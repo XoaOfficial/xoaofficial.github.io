@@ -25,7 +25,8 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
   </head>
-  <body id="top" class="ss-single"> <!-- preloader
+  <body id="top" class="ss-single">
+    <!-- preloader
     ================================================== -->
     <div id="preloader">
       <div id="loader" class="dots-fade">
@@ -87,20 +88,16 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> <a href="single.html" title="">¿Me
-                  lo expliCAS?</a> </h2>
+              <h2 class="entry__title h1"> <a href="#">¿Me lo expliCAS?</a> </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Ayuda Mutua</li>
-                  <li><a href="#" title="" rel="category tag">etiquetas creo</a></li>
+                  <li><a href="servicio.html" title="" rel="category tag">Servicio</a></li>
                 </ul>
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
-
-                srcset="images/wheel-1000.jpg 1000w, 
-                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
+            <div class="entry__content-media"> <img src="images/ayuda%20mutua%201.jpeg"
 
                 alt=""> </div>
             <div class="entry__content">
@@ -122,10 +119,12 @@
                 llevado a frustrarme.</p>
               <p>A pesar de eso, la extraescolar sigue siendo de mis favoritas y
                 la recomendaría sin duda, ya sea como alumno o como profesor.</p>
+              <div class="entry__content-media"> <img src="images/ayuda%20mutua%202.jpeg"
+
+                  alt=""> </div>
             </div>
             <!-- entry__content -->
-            <p class="entry__tags"> <span>Tagged in </span>: <a href="#0">orci</a>,
-              <a href="#0">lectus</a>, <a href="#0">varius</a>, <a href="#0">turpis</a>
+            <p class="entry__tags"> <span>Etiquetado en </span>: <a href="servicio.html">Servicio</a>
             </p>
             <ul class="entry__post-nav h-group">
               <li class="prev"><a rel="prev" href="#0"><strong class="h6">Previous
@@ -134,26 +133,14 @@
                     Article</strong> Morbi Elit Consequat Ipsum</a></li>
             </ul>
           </article>
-          <!-- end entry --> </div>
-        <!-- end main -->
-        <div id="sidebar" class="s-content__sidebar large-4 column">
-          <div class="widget widget--search">
-            <h3 class="h6">Search</h3>
-            <form action="#0"> <input value="Search here..." onblur="if(this.value == '') { this.value = 'Search here...'; }"
-
-                onfocus="if (this.value == 'Search here...') { this.value = ''; }"
-
-                class="text-search" type="text"> <input value="" class="submit-search"
-
-                type="submit"> </form>
-          </div>
+          <!-- end entry -->
           <div class="widget widget--categories">
-            <h3 class="h6">Categories.</h3>
+            <h3 class="h6">Etiquetas</h3>
             <ul>
-              <li><a href="#0" title="">Creatividad</a> (n)</li>
-              <li><a href="#0" title="">Actividad</a> (2432)</li>
-              <li><a href="#0" title="">Servicio</a> (523)</li>
-              <li><a href="#0" title="">Otros</a> (3)</li>
+              <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
+              <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
+              <li><a href="servicio.html" title="">Servicio</a> (523)</li>
+              <li><a href="otros.html" title="">Otros</a> (3)</li>
             </ul>
           </div>
         </div>
@@ -177,5 +164,6 @@
     ================================================== -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/main.js"></script>
+    
   </body>
 </html>

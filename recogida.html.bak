@@ -41,7 +41,8 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -98,9 +99,8 @@
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
-                srcset="images/wheel-1000.jpg 1000w, 
-                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
+            <div class="entry__content-media"> <img src="images/recogida%20carro%202.jpeg"
+
                 alt=""> </div>
             <div class="entry__content">
               <p>A mediados de enero, decidí apuntarme a una recogida de
@@ -115,6 +115,9 @@
                 ignoraban o compraban lo mínimo necesario, pero lo que más me
                 sorprendió fueron las personas que intentaban ayudar
                 activamente.</p>
+              <div class="entry__content-media"> <img src="images/recogida%20bolsas.jpeg"
+
+                  alt=""> </div>
               <p>Quiero destacar el caso de una persona mayor, que después de
                 charlar un rato con nosotros y preguntar qué tipo de comida era
                 la más útil, estuvo ayudando a unos vecinos a cargar muebles
@@ -126,9 +129,13 @@
               <p>La recogida en general fue una experiencia extremadamente
                 positiva, no solo por la calma de la actividad sino por sus
                 consecuencias, y creo que fue una de las mejores mañanas de fin
-                de semana de todo el curso, y me hizo apreciar mucho más la
-                importancia y el valor de colaborar con lo que uno puede, del
-                servicio. Repetiré el curso que viene sin duda.</p>
+                de semana de todo el curso. Sin duda me hizo apreciar mucho más
+                la importancia y el valor de colaborar con lo que uno puede, y
+                repetiré la experiencia el curso que viene en cuanto tenga la
+                oportunidad.</p>
+              <div class="entry__content-media"> <img src="images/recogida%20selfie.jpeg"
+
+                  alt=""> </div>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Tagged in </span>: <a href="#0">orci</a>,
@@ -145,10 +152,10 @@
           <div class="widget widget--categories">
             <h3 class="h6">Categories.</h3>
             <ul>
-              <li><a href="#0" title="">Creatividad</a> (n)</li>
-              <li><a href="#0" title="">Actividad</a> (2432)</li>
-              <li><a href="#0" title="">Servicio</a> (523)</li>
-              <li><a href="#0" title="">Otros</a> (3)</li>
+              <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
+              <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
+              <li><a href="servicio.html" title="">Servicio</a> (523)</li>
+              <li><a href="otros.html" title="">Otros</a> (3)</li>
             </ul>
           </div>
         </div>
@@ -163,7 +170,8 @@
       </div>
       <!-- end footer__bottom -->
       <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+
               d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
       <!-- end ss-go-top --> </footer>
     <!-- end Footer-->
