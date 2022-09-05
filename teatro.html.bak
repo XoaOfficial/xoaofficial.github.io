@@ -97,9 +97,8 @@
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/teatro1.jpeg"
-
-                alt=""> </div>
+            <div class="entry__content-media"> <img src="images/teatro1.jpg" alt="">
+            </div>
             <div class="entry__content">
               <p>El teatro siempre ha sido una de mis extraescolares favoritas
                 desde primaria, y teniendo en cuenta la importancia que tiene en
@@ -121,9 +120,9 @@
                 teatro ha cambiado cómo me relaciono con mi familia, y me ha
                 hecho apreciar mucho más lo que tengo, y que antes daba por
                 obvio o asumía como básico.</p>
-              <div class="entry__content-media"> <img src="images/teatro1.jpeg"
+              <div class="entry__content-media"> <img src="images/teatro2.jpg"
 
-                alt=""> </div>
+                  alt=""> </div>
               <p>Otro factor importantísimo que quiero destacar es la
                 importancia que mis compañeros han tenido a la hora de
                 desarrollar muchas de estas improvisaciones: sin su trabajo no
@@ -178,5 +177,6 @@
     ================================================== -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/main.js"></script>
+    
   </body>
 </html>

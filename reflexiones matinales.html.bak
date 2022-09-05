@@ -25,8 +25,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
   </head>
-  <body id="top" class="ss-single">
-    <!-- preloader
+  <body id="top" class="ss-single"> <!-- preloader
     ================================================== -->
     <div id="preloader">
       <div id="loader" class="dots-fade">
@@ -98,12 +97,6 @@
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
-
-                srcset="images/wheel-1000.jpg 1000w, 
-                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
-
-                alt=""> </div>
             <div class="entry__content">
               <p>Cuando se reanudaron las clases después de la pandemia, tuve
                 una idea para hacer las mañanas de mis amigos más entretenidas:
@@ -156,10 +149,8 @@
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a>
             </p>
             <ul class="entry__post-nav h-group">
-              <li class="prev"><a rel="prev" href="#0"><strong class="h6">Previous
-                    Article</strong> Duis Sed Odio Sit Amet Nibh Vulputate</a></li>
-              <li class="next"><a rel="next" href="#0"><strong class="h6">Next
-                    Article</strong> Morbi Elit Consequat Ipsum</a></li>
+              <li class="next"><a rel="next" href="taller%20programacion.html"><strong
+                    class="h6">Siguiente reflexión</strong> En 2º de bachillerato va a haber más reflexiones matinales !!!!</a></li>
             </ul>
           </article>
           <!-- end entry -->
@@ -193,6 +184,5 @@
     ================================================== -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/main.js"></script>
-    
   </body>
 </html>

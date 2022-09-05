@@ -41,8 +41,7 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
-
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -118,9 +117,8 @@
           <!-- end entry -->
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> <a href="taller%20programacion.html"
-
-                  title="">shfjkdh taller de programación</a> </h2>
+              <h2 class="entry__title h1"> <a href="taller%20programacion.html"
+                  title="">Le das al botón, y arranCAS el programa</a> </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Taller de programación</li>
@@ -149,8 +147,7 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="reflexiones%20matinales.html"
-
+              <h2 class="entry__title h1"><a href="reflexiones%20matinales.html"
                   title="">Creatividad CASi a diario</a></h2>
               <h2 class="entry__title h1"><a href="single.html" title=""></a></h2>
               <h2 class="entry__title h1"><a href="single.html" title=""></a> </h2>
@@ -175,7 +172,7 @@
                   <li>Diccionario Etimológico de Vocabulario Coloquial
                     Contemporáneo</li>
                   <li> <a href="creatividad.html" title="" rel="category tag">Creatividad</a>,
-                  <a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                    <a href="servicio.html" title="" rel="category tag">Servicio</a></li>
                 </ul>
               </div>
             </header>
@@ -234,8 +231,7 @@
           </article>
           <!-- end entry -->
           <!-- page nav -->
-          <div class="post-list-nav"> <a rel="prev" href="#0">Prev</a> <a rel="next"
-
+          <div class="post-list-nav"> <a rel="prev" href="#0">Prev</a> <a rel="next"
               href="#0">Next</a> </div>
         </div>
         <!-- end main -->
@@ -261,8 +257,7 @@
       </div>
       <!-- end footer__bottom -->
       <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
-
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
               d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
       <!-- end ss-go-top --> </footer>
     <!-- end Footer-->
@@ -270,6 +265,5 @@
     ================================================== -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/main.js"></script>
-    
   </body>
 </html>
