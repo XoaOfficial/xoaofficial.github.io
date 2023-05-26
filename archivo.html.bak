@@ -25,8 +25,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
   </head>
-  <body id="top" class="ss-single">
-    <!-- preloader
+  <body id="top" class="ss-single"> <!-- preloader
     ================================================== -->
     <div id="preloader">
       <div id="loader" class="dots-fade">
@@ -41,7 +40,8 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -115,7 +115,8 @@
           <!-- end entry -->
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> <a href="taller%20programacion.html"
+              <h2 class="entry__title h1"> <a href="taller%20programacion.html"
+
                   title="">Le das al botón, y arranCAS el programa</a> </h2>
               <div class="entry__meta">
                 <ul>
@@ -130,7 +131,8 @@
           <!-- end entry -->
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> <a href="taller%20programacion+a%C3%B1o+2.html"
+              <h2 class="entry__title h1"> <a href="taller%20programacion+a%C3%B1o+2.html"
+
                   title="">CAS++</a> </h2>
               <div class="entry__meta">
                 <ul>
@@ -206,8 +208,8 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><span style="color: black;">Para el
-                  último año, escenas iróniCAS y personajes cómicos</span></h2>
+              <h2 class="entry__title h1"><span style="color: black;"><a href="teatro año 2.html" title="">Para el
+                último año, escenas iróniCAS y personajes cómicos</a></span></h2>
               <h2 class="entry__title h1"><a href="single.html" title=""></a> </h2>
               <div class="entry__meta">
                 <ul>
@@ -238,8 +240,8 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><span style="color: black;">Partidas
-                  idíliCAS entre grandes amigos</span></h2>
+              <h2 class="entry__title h1"><span style="color: black;"><a href="pingpong año 2.html" title="">Partidas
+                idíliCAS entre grandes amigos</a></span></h2>
               <h2 class="entry__title h1"> </h2>
               <div class="entry__meta">
                 <ul>
@@ -261,7 +263,8 @@
               <div class="entry__meta">
                 <ul>
                   <li>Taller de Ping-Pong</li>
-                  <li> <a href="actividad.html">Actividad</a>, <a href="servicio.html"
+                  <li> <a href="actividad.html">Actividad</a>, <a href="servicio.html"
+
                       rel="category tag">Servicio</a></li>
                 </ul>
               </div>
@@ -374,8 +377,8 @@
               <h2 class="entry__title h1"> </h2>
               <h2 class="entry__title h1"> </h2>
               <h2 class="entry__title h1"></h2>
-              <h2 class="entry__title h1"><span style="color: black;">PlaCAS
-                  solares para el instituto</span></h2>
+              <h2 class="entry__title h1"><span style="color: black;"><a href="olimpiada arquitectura.html" title="">PlaCAS
+                solares para el instituto</a></span></h2>
               <div class="entry__meta">
                 <ul>
                   <li>Olimpiada de arquitectura</li>
@@ -442,7 +445,8 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="reflexiones%20matinales.html"
+              <h2 class="entry__title h1"><a href="reflexiones%20matinales.html"
+
                   title="">Creatividad CASi a diario</a></h2>
               <h2 class="entry__title h1"><a href="single.html" title=""></a></h2>
               <h2 class="entry__title h1"><a href="single.html" title=""></a> </h2>
@@ -475,7 +479,8 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="clase%20de%20fisica%202.html"
+              <h2 class="entry__title h1"><a href="clase%20de%20fisica%202.html"
+
                   title="">El campo eléctrico en una CÁScara de nuez<br>
                 </a></h2>
               <h2 class="entry__title h1"> </h2>
@@ -508,9 +513,7 @@
           <!-- end entry -->
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1">Cuidado, que salpiCAS</h2>
-              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="natacion.html" title="">Cuidado, que salpiCAS</a></h2>
               <div class="entry__meta">
                 <ul>
                   <li>Natación</li>
@@ -541,7 +544,7 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1">Flexiones lúdiCAS y liberadoras</h2>
+              <h2 class="entry__title h1"><a href="calistenia.html" title="">Flexiones lúdiCAS y liberadoras</a></h2>
               <h2 class="entry__title h1"> </h2>
               <div class="entry__meta">
                 <ul>
@@ -573,7 +576,8 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="regalos+navide%C3%B1os.html"
+              <h2 class="entry__title h1"><a href="regalos+navide%C3%B1os.html"
+
                   title="">Actividades solidarias y laiCAS en una parroquia<br>
                 </a></h2>
               <h2 class="entry__title h1"> </h2>
@@ -597,7 +601,8 @@
               <div class="entry__meta">
                 <ul>
                   <li>Senderismo - Año 2</li>
-                  <li> <a href="actividad.html">Actividad</a>, <a href="servicio.html"
+                  <li> <a href="actividad.html">Actividad</a>, <a href="servicio.html"
+
                       rel="category tag">Servicio</a></li>
                 </ul>
               </div>
@@ -608,8 +613,8 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1">Me enCASquetan responsabilidades (sale
-                bien)</h2>
+              <h2 class="entry__title h1"><a href="servicio en el instituto.html" title="">Me enCASquetan responsabilidades (sale
+                bien)</a></h2>
               <h2 class="entry__title h1"> </h2>
               <div class="entry__meta">
                 <ul>
@@ -745,7 +750,8 @@
             <a href="https://www.styleshout.com/">StyleShout</a></span> </div>
         <!-- end footer__bottom -->
         <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+
                 d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
         <!-- end ss-go-top --> </footer>
       <!-- end Footer-->
