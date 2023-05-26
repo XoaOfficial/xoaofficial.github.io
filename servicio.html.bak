@@ -41,7 +41,8 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -87,12 +88,14 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> <a href="taller%20programacion.html"
+              <h2 class="entry__title h1"> <a href="taller%20programacion.html"
+
                   title="">Le das al botón, y arranCAS el programa</a> </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Taller de programación</li>
-                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+
                       rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
@@ -102,14 +105,17 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="taller%20programacion+a%C3%B1o+2.html"
-                  title="">CAS++</a></h2>
-              <h2 class="entry__title h1"><a href="taller%20programacion+a%C3%B1o+2.html"
+              <h2 class="entry__title h1"><a href="taller%20programacion%20ano%202.html"
+
+                  title="">CAS%20%20</a></h2>
+              <h2 class="entry__title h1"><a href="taller%20programacion%20ano%202.html"
+
                   title=""></a> </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Taller de programación - Año 2</li>
-                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+
                       rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
@@ -119,14 +125,15 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="codewars+a%C3%B1o+2.html" title="">CASi
+              <h2 class="entry__title h1"><a href="codewars%20ano%202.html" title="">CASi
                   primeros, pero sin premio</a></h2>
-              <h2 class="entry__title h1"><a href="codewars+a%C3%B1o+2.html" title=""></a>
+              <h2 class="entry__title h1"><a href="codewars%20ano%202.html" title=""></a>
               </h2>
               <div class="entry__meta">
                 <ul>
                   <li>CodeWars - Año 2</li>
-                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+
                       rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
@@ -143,7 +150,8 @@
               <div class="entry__meta">
                 <ul>
                   <li>Teatro - Parte 2</li>
-                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+
                       rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
@@ -153,14 +161,15 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><span style="color: black;">Para el
-                  último año, escenas iróniCAS y personajes cómicos</span></h2>
-              <h2 class="entry__title h1"><a href="teatro+a%C3%B1o+2.html" title=""></a>
+              <h2 class="entry__title h1"><span style="color: black;"><a href="teatro ano 2.html" title="">Para el
+                último año, escenas iróniCAS y personajes cómicos</a></span></h2>
+              <h2 class="entry__title h1"><a href="teatro%20ano%202.html" title=""></a>
               </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Teatro - Año 2</li>
-                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+
                       rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
@@ -170,14 +179,15 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="pingpong.html" title="">Un
+              <h2 class="entry__title h1"><a href="taller pingpong.html" title="">Un
                   fraCASo relativo</a></h2>
               <h2 class="entry__title h1"><a href="taller%20pingpong.html" title=""></a>
               </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Taller de Ping-Pong</li>
-                  <li><a href="servicio.html">Servicio</a>, <a href="actividad.html"
+                  <li><a href="servicio.html">Servicio</a>, <a href="actividad.html"
+
                       rel="category tag">Actividad</a></li>
                 </ul>
               </div>
@@ -219,14 +229,16 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><span style="color: black;">PlaCAS
-                  solares para el instituto</span></h2>
-              <h2 class="entry__title h1"><a href="olimpiada%20arquitectura.html"
+              <h2 class="entry__title h1"><span style="color: black;"><a href="olimpiada arquitectura.html" title="">PlaCAS
+                solares para el instituto</a></span></h2>
+              <h2 class="entry__title h1"><a href="olimpiada%20arquitectura.html"
+
                   title=""></a> </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Olimpiada de arquitectura</li>
-                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+
                       rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
@@ -244,7 +256,8 @@
                 <ul>
                   <li>Diccionario Etimológico de Vocabulario Coloquial
                     Contemporáneo</li>
-                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+
                       rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
@@ -256,13 +269,14 @@
               <h2 class="entry__title h1"> </h2>
               <h2 class="entry__title h1"> </h2>
               <h2 class="entry__title h1"></h2>
-              <h2 class="entry__title h1"><a href="devcc.html" title="">Definiciones
+              <h2 class="entry__title h1"><a href="devcc v2.html" title="">Definiciones
                   aún más épiCAS </a></h2>
               <div class="entry__meta">
                 <ul>
                   <li>Diccionario Etimológico de Vocabulario Coloquial
                     Contemporáneo, versión 2</li>
-                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+
                       rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
@@ -289,9 +303,11 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="clase%20de%20fisica%202.html"
+              <h2 class="entry__title h1"><a href="clase%20de%20fisica%202.html"
+
                   title="">El campo eléctrico en una CÁScara de nuez</a></h2>
-              <h2 class="entry__title h1"><a href="clase%20de%20fisica%202.html"
+              <h2 class="entry__title h1"><a href="clase%20de%20fisica%202.html"
+
                   title=""></a></h2>
               <h2 class="entry__title h1"> </h2>
               <div class="entry__meta">
@@ -324,10 +340,9 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="regalos+navide%C3%B1os.html"
-                  title="">Actividades solidarias y laiCAS en una parroquia</a></h2>
-              <h2 class="entry__title h1"><a href="regalos+navide%C3%B1os.html"
-                  title=""></a></h2>
+              <h2 class="entry__title h1"><a href="regalos%20navidenos.html" title="">Actividades
+                  solidarias y laiCAS en una parroquia</a></h2>
+              <h2 class="entry__title h1"><a href="regalos%20navidenos.html" title=""></a></h2>
               <h2 class="entry__title h1"> </h2>
               <div class="entry__meta">
                 <ul>
@@ -342,14 +357,15 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="senderismo+a%C3%B1o+2.html" title="">Frambuesas,
+              <h2 class="entry__title h1"><a href="senderismo%20ano%202.html" title="">Frambuesas,
                   arándanos, pero no CAStañas</a></h2>
-              <h2 class="entry__title h1"><a href="senderismo+a%C3%B1o+2.html" title=""></a>
+              <h2 class="entry__title h1"><a href="senderismo%20ano%202.html" title=""></a>
               </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Senderismo - Año 2</li>
-                  <li><a href="servicio.html">Servicio</a>, <a href="actividad.html"
+                  <li><a href="servicio.html">Servicio</a>, <a href="actividad.html"
+
                       rel="category tag">Actividad</a></li>
                 </ul>
               </div>
@@ -361,7 +377,8 @@
               <h2 class="entry__title h1"> </h2>
               <h2 class="entry__title h1">Me enCASquetan responsabilidades (sale
                 bien)</h2>
-              <h2 class="entry__title h1"><a href="servicio%20en%20el%20instituto.html"
+              <h2 class="entry__title h1"><a href="servicio%20en%20el%20instituto.html"
+
                   title=""></a></h2>
               <h2 class="entry__title h1"> </h2>
               <div class="entry__meta">
@@ -376,12 +393,14 @@
           <!-- end entry -->
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> <a href="tutorial%20calculadora%20grafica.html"
+              <h2 class="entry__title h1"> <a href="tutorial%20calculadora%20grafica.html"
+
                   title="">¡CÁSpita, cuántas funciones!</a> </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Tutorial calculadora gráfica</li>
-                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+
                       rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
@@ -395,7 +414,8 @@
               <div class="entry__meta">
                 <ul>
                   <li>aWards</li>
-                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+                  <li><a href="servicio.html">Servicio</a>, <a href="creatividad.html"
+
                       rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
@@ -429,7 +449,8 @@
       </div>
       <!-- end footer__bottom -->
       <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+
               d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
       <!-- end ss-go-top --> </footer>
     <!-- end Footer-->
@@ -437,5 +458,6 @@
     ================================================== -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/main.js"></script>
+    
   </body>
 </html>
