@@ -88,7 +88,7 @@
           <article class="entry">
             <header class="entry__header">
               <h2 class="entry__title h1"> </h2>
-              <h2 class="entry__title h1"><a href="regalos+navide%C3%B1os.html"
+              <h2 class="entry__title h1"><a href="regalos+navidenos.html"
 
                   title="">Actividades solidarias y laiCAS en una parroquia</a></h2>
               <h2 class="entry__title h1"><a href="#"></a> </h2>
@@ -100,8 +100,9 @@
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/piolines1.jpg" alt="">
-            </div>
+            <div class="entry__content-media"> <img src="images/piolines1.jpg"
+
+                alt=""> </div>
             <div class="entry__content">
               <p style="text-align: justify;">Unos días antes de Navidad, nos
                 avisaron de un proyecto de una parroquia cercana al instituto,
@@ -110,8 +111,9 @@
                 tarde a la donación en sí, pero pedían voluntarios para ayudar a
                 organizarlos y envolverlos, así que unos amigos y yo decidimos
                 apuntarnos.</p>
-              <div class="entry__content-media"> <img src="images/piolines2.jpg" alt="">
-            </div>
+              <div class="entry__content-media"> <img src="images/piolines2.jpg"
+
+                  alt=""> </div>
               <p style="text-align: justify;">La actividad de envolver regalos
                 no parece gran cosa, pero con buena compañía y algunos paquetes
                 inusuales, fue tanto entretenido como desafiante. El regalo más
@@ -120,8 +122,9 @@
                 Puede parecer absurdo, pero esta actividad me ha ayudado a
                 mejorar mucho en mis capacidades de envolver paquetes en papel
                 de regalo.</p>
-              <div class="entry__content-media"> <img src="images/piolines3.jpg" alt="">
-            </div>
+              <div class="entry__content-media"> <img src="images/piolines3.jpg"
+
+                  alt=""> </div>
               <p style="text-align: justify;">Por último, no se puede olvidar el
                 factor ético de la actividad. Aunque sea con un pequeño gesto,
                 estábamos ayudando a que niños desfavorecidos pudieran disfrutar
@@ -130,8 +133,9 @@
                 económica. Al igual que muchos voluntariados, estas actividades
                 pueden dar pereza inicialmente, pero al final merecen la pena, y
                 esta no fue una excepción.</p>
-              <div class="entry__content-media"> <img src="images/piolines4.jpg" alt="">
-            </div>
+              <div class="entry__content-media"> <img src="images/piolines4.jpg"
+
+                  alt=""> </div>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="servicio.html">Servicio</a>
@@ -140,7 +144,7 @@
               <li class="prev"><a rel="prev" href="calistenia%202.html"><strong
 
                     class="h6">Reflexión anterior</strong> Calistenia - Parte 2</a></li>
-              <li class="next"><a rel="next" href="senderismo+a%C3%B1o+2.html"><strong
+              <li class="next"><a rel="next" href="senderismo+ano+2.html"><strong
 
                     class="h6">Siguiente reflexión</strong> Senderismo - Año 2</a></li>
             </ul>
