@@ -25,7 +25,8 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
   </head>
-  <body id="top" class="ss-single"> <!-- preloader
+  <body id="top" class="ss-single">
+    <!-- preloader
     ================================================== -->
     <div id="preloader">
       <div id="loader" class="dots-fade">
@@ -122,8 +123,6 @@
                 conseguir hacer trabajos de varios días en tan solo un par de
                 horas.</p>
             </div>
-            <div class="entry__content-media"> <img src="images/mesas.jpg" alt="">
-            </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="servicio.html">Servicio</a>
             </p>
@@ -166,5 +165,6 @@
     ================================================== -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/main.js"></script>
+    
   </body>
 </html>

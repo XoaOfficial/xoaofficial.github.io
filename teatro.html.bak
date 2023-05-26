@@ -99,38 +99,39 @@
             <div class="entry__content-media"> <img src="images/teatro1.jpg" alt="">
             </div>
             <div class="entry__content">
-              <p>El teatro siempre ha sido una de mis extraescolares favoritas
-                desde primaria, y teniendo en cuenta la importancia que tiene en
-                el ámbito de la creatividad, la decisión de apuntarme no fue
-                difícil. Al principio de curso las actividades estuvieron más
-                centradas en improvisaciones, de diversos temas y con diversos
-                personajes, como preparación general para el resto de las
-                clases, y este tipo de ejercicios eran simples y divertidos, en
-                mi opinión una buena introducción.</p>
-              <p>En el segundo trimestre las improvisaciones se centraron más en
-                temas concretos y personales, y acabamos desarrollando la idea
-                de preparar una obra que hablara de nuestras relaciones
-                familiares, y de cómo nos afectan en diferentes situaciones.
-                Este planteamiento mucho más introspectivo me parece claramente
-                mejor que lo anterior, y muchas de estas improvisaciones
-                lograban hacer que me diera cuenta de muchos factores de las
-                relaciones con mi familia en los que no me había fijado, a veces
-                alegres y positivos, a veces tristes o incluso agresivos. El
-                teatro ha cambiado cómo me relaciono con mi familia, y me ha
-                hecho apreciar mucho más lo que tengo, y que antes daba por
-                obvio o asumía como básico.</p>
+              <p style="text-align: justify;">El teatro siempre ha sido una de
+                mis extraescolares favoritas desde primaria, y teniendo en
+                cuenta la importancia que tiene en el ámbito de la creatividad,
+                la decisión de apuntarme no fue difícil. Al principio de curso
+                las actividades estuvieron más centradas en improvisaciones, de
+                diversos temas y con diversos personajes, como preparación
+                general para el resto de las clases, y este tipo de ejercicios
+                eran simples y divertidos, en mi opinión una buena introducción.</p>
+              <p style="text-align: justify;">En el segundo trimestre las
+                improvisaciones se centraron más en temas concretos y
+                personales, y acabamos desarrollando la idea de preparar una
+                obra que hablara de nuestras relaciones familiares, y de cómo
+                nos afectan en diferentes situaciones. Este planteamiento mucho
+                más introspectivo me parece claramente mejor que lo anterior, y
+                muchas de estas improvisaciones lograban hacer que me diera
+                cuenta de muchos factores de las relaciones con mi familia en
+                los que no me había fijado, a veces alegres y positivos, a veces
+                tristes o incluso agresivos. El teatro ha cambiado cómo me
+                relaciono con mi familia, y me ha hecho apreciar mucho más lo
+                que tengo, y que antes daba por obvio o asumía como básico.</p>
               <div class="entry__content-media"> <img src="images/teatro2.jpg"
                   alt=""> </div>
-              <p>Otro factor importantísimo que quiero destacar es la
-                importancia que mis compañeros han tenido a la hora de
-                desarrollar muchas de estas improvisaciones: sin su trabajo no
-                habrían llegado a la seriedad y la profundidad a las que han
-                llegado, y su capacidad de mantener el tono de la improvisación
-                cómico en situaciones graciosas, o tenso en momentos de
-                conflicto, ha sido clave para poder analizar y reflexionar sobre
-                cómo me sentía yo en esos momentos.</p>
-              <p><i>(Esta reflexión la hice antes de terminar y estrenar la
-                  obra, habrá otra con la perspectiva del proyecto terminado)</i></p>
+              <p style="text-align: justify;">Otro factor importantísimo que
+                quiero destacar es la importancia que mis compañeros han tenido
+                a la hora de desarrollar muchas de estas improvisaciones: sin su
+                trabajo no habrían llegado a la seriedad y la profundidad a las
+                que han llegado, y su capacidad de mantener el tono de la
+                improvisación cómico en situaciones graciosas, o tenso en
+                momentos de conflicto, ha sido clave para poder analizar y
+                reflexionar sobre cómo me sentía yo en esos momentos.</p>
+              <p style="text-align: justify;"><i>(Esta reflexión la hice antes
+                  de terminar y estrenar la obra, habrá otra con la perspectiva
+                  del proyecto terminado)</i></p>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a>

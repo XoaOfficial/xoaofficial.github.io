@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <!--- basic page needs
     ================================================== -->
-    <title>Teatro - Parte 2</title>
+    <title>Regalos navideños</title>
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- mobile specific metas
@@ -87,63 +87,65 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"><a href="teatro%202.html" title="">Las
-                  ideas más loCAS dan las obras más divertidas</a></h2>
-              <h2 class="entry__title h1"></h2>
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="regalos+navide%C3%B1os.html"
+
+                  title="">Actividades solidarias y laiCAS en una parroquia</a></h2>
+              <h2 class="entry__title h1"><a href="#"></a> </h2>
               <div class="entry__meta">
                 <ul>
-                  <li>Teatro - Parte 2</li>
-                  <li><a href="creatividad.html" title="" rel="category tag">Creatividad</a>,
-                    <a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                  <li>Regalos navideños</li>
+                  <li><a href="servicio.html" title="" rel="category tag">Servicio</a></li>
                 </ul>
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/teatro3.jpg" alt="">
+            <div class="entry__content-media"> <img src="images/piolines1.jpg" alt="">
             </div>
             <div class="entry__content">
-              <p style="text-align: justify;">La obra ha salido muy bien. Había
-                muchos nervios al empezar, y nos hemos trabado en un par de
-                frases, pero todo el resto del estreno ha sido genial, tanto por
-                las risas del público como por nuestro propio disfrute al
-                actuar.</p>
-              <p style="text-align: justify;">Poco después de la anterior
-                reflexión, nos dimos cuenta de que nuestras preferencias
-                artísticas, y nuestro propio estilo de actuar, pedían una obra
-                mucho más graciosa: absurda y llena de chistes, pero con
-                críticas serias de fondo hacia la familia. Y eso hicimos.
-                Algunas de mis escenas favoritas son la de los padres criticando
-                el estilo demasiado "formal" y "serio" de su hija, mientras
-                incentivan la ropa "alternativa" y "de moda" de su hijo; la de
-                la clásica charla sobre el sexo que todos tuvimos que pasar en
-                nuestra pubertad, con más metáforas y figuras que explicaciones
-                realmente claras; y la del concurso, en la que tres hermanos
-                discuten para librarse de llevar a la tía a Albacete, pero en un
-                plató de televisión.</p>
-              <p style="text-align: justify;">Hemos buscado entretener y
-                criticar sin rubor, hacer pensar a los padres y familiares sin
-                atacarles directamente, y sobre todo hacer que se puedan reír de
-                ellos mismos y verse identificados en los personajes, pero que
-                no se ofendan porque nos hayamos pasado de tono. Estoy muy
-                contento con el resultado final, y diría que es la mejor obra
-                que hemos estrenado en este grupo hasta la fecha.</p>
+              <p style="text-align: justify;">Unos días antes de Navidad, nos
+                avisaron de un proyecto de una parroquia cercana al instituto,
+                que había pedido donaciones de juguetes para poder dárselos el
+                día de Reyes a niños que no tendrían ningún regalo. Llegábamos
+                tarde a la donación en sí, pero pedían voluntarios para ayudar a
+                organizarlos y envolverlos, así que unos amigos y yo decidimos
+                apuntarnos.</p>
+              <div class="entry__content-media"> <img src="images/piolines2.jpg" alt="">
             </div>
-            <div class="entry__content-media"> <img src="images/teatro4.jpg" alt="">
+              <p style="text-align: justify;">La actividad de envolver regalos
+                no parece gran cosa, pero con buena compañía y algunos paquetes
+                inusuales, fue tanto entretenido como desafiante. El regalo más
+                difícil que encontramos fueron unos peluches de Piolín, los
+                cuales no tenían ni caja, ni paquete, ni una silueta uniforme.
+                Puede parecer absurdo, pero esta actividad me ha ayudado a
+                mejorar mucho en mis capacidades de envolver paquetes en papel
+                de regalo.</p>
+              <div class="entry__content-media"> <img src="images/piolines3.jpg" alt="">
+            </div>
+              <p style="text-align: justify;">Por último, no se puede olvidar el
+                factor ético de la actividad. Aunque sea con un pequeño gesto,
+                estábamos ayudando a que niños desfavorecidos pudieran disfrutar
+                de un regalo en las navidades, ilusión que yo creo que debería
+                poder sentir todo niño, independientemente de su capacidad
+                económica. Al igual que muchos voluntariados, estas actividades
+                pueden dar pereza inicialmente, pero al final merecen la pena, y
+                esta no fue una excepción.</p>
+              <div class="entry__content-media"> <img src="images/piolines4.jpg" alt="">
+            </div>
             </div>
             <!-- entry__content -->
-            <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a>
+            <p class="entry__tags"> <span>Etiquetado en </span>: <a href="servicio.html">Servicio</a>
             </p>
             <ul class="entry__post-nav h-group">
-              <li class="prev"><a rel="prev" href="teatro.html"><strong class="h6">Reflexión
-                    anterior</strong> Teatro</a></li>
-              <li class="next"><a rel="next" href="teatro+a%C3%B1o+2.html"><strong
+              <li class="prev"><a rel="prev" href="calistenia%202.html"><strong
 
-                    class="h6">Siguiente reflexión</strong> Teatro - Año 2</a></li>
+                    class="h6">Reflexión anterior</strong> Calistenia - Parte 2</a></li>
+              <li class="next"><a rel="next" href="senderismo+a%C3%B1o+2.html"><strong
+
+                    class="h6">Siguiente reflexión</strong> Senderismo - Año 2</a></li>
             </ul>
           </article>
-          <!-- end entry --> </div>
-        <!-- end main -->
-        <div id="sidebar" class="s-content__sidebar large-4 column">
+          <!-- end entry -->
           <div class="widget widget--categories">
             <h3 class="h6">Etiquetas</h3>
             <ul>
