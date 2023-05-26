@@ -99,30 +99,36 @@
             </header>
             <!-- entry__header -->
             <div class="entry__content">
-              <p>Poco antes de los exámenes finales, se me ocurrió una idea </p>
-              <p>Decidí implementarlas y aprovechar para reflexionar sobre el
-                proceso en un formato menos restrictivo, y creo que aunque no
-                sea una experiencia completamente nueva, hay suficientes
-                diferencias para poder poner el nombre de "versión 2".</p>
-              <p>Un gran problema en el que me fijé es que no solo había
-                dificultades sobre el significado de las palabras, sino cómo
-                pronunciarlas. Desde "grinch" intentando decir "cringe" hasta
-                "jeje" para pronunciar "gg", la parte oral había quedado un poco
-                abandonada en la primera versión. Por ello decidí añadir
-                indicadores en corchetes explicando cómo leer las palabras que
-                no tenían una pronunciación estrictamente española.</p>
-              <p>También añadí unas pocas palabras nuevas, y en este punto tengo
-                que mencionar la gran importancia de la colaboración en este
-                proyecto: mi vocabulario no coincide con el de todas las
-                personas jóvenes de España para nada, y es gracias a las
-                sugerencias y correcciones de otros alumnos que he podido
-                elaborar una lista lo más copmpleta posible.</p>
-              <p>Esta ha sido sin duda una de mis experiencias favoritas del
-                curso, no solo por el proceso creativo sino por la importancia
-                de compartir conocimiento sobre un área muy poco visitada, de
-                una manera alternativa y con un impacto real y observable en la
-                gente que me rodea.</p>
-              <p><i>(link al diccionario <a href="files/DEVCC%20v2.docx">aquí</a>)</i></p>
+              <p style="text-align: justify;">Poco antes de los exámenes
+                finales, se me ocurrió una idea para recordar nuestros mejores
+                momentos como clase, y dar su reconocimiento a los alumnos y
+                profesores más destacables: una gala de premios, votados entre
+                toda la clase.</p>
+              <p style="text-align: justify;">Desde reconocimientos serios a
+                premios de broma, mi objetivo era hacer que todo el mundo se
+                sintiera incluido, y no dañar ni ofender a nadie. Los premios se
+                dividieron en tres categorías: alumnos, profesores y
+                misceláneos.</p>
+              <p style="text-align: justify;">En menos de una semana improvisé
+                las categorías y elaboré un formulario de votación, y envié la
+                información a la clase. Muchos compañeros se apuntaron para
+                ayudar, y tengo que agradecer a Silvia, por la ayuda en la
+                impresión y redacción de los diplomas; Pablo, por los sobres con
+                los resultados, preparados para el momento del anuncio; Alek,
+                por la ayuda para la organización en los últimos momentos, y a
+                Dani, por el nombre de la gala, resaltando la letra de la clase
+                de manera original: aWards.</p>
+              <p style="text-align: justify;">La entrega de premios en sí fue
+                muy bonita y alegre para todos, y entre risas y aplausos hubo
+                hasta algún llanto de nostalgia. Algunos de los premios incluían
+                "padre/madre del grupo", "mejor estilazo", o "mejor frase
+                célebre" para alumnos, y "exámenes más temidos" o "mejor arco de
+                redención" para profesores.</p>
+              <p style="text-align: justify;">Creo que no hay un mejor final
+                para la carpeta CAS que una apreciación a todos los compañeros,
+                de dentro y fuera de clase, que han hecho posibles todas estas
+                actividades, la maravillosa compañía que he tenido estos dos
+                años va a ser casi imposible de superar. Muchas gracias.</p>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a>,

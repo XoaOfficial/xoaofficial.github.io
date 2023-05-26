@@ -99,21 +99,22 @@
             </header>
             <!-- entry__header -->
             <div class="entry__content">
-              <p>Tras mi experiencia senderista veraniega, necesitaba una forma
-                de ejercicio que fuera todo lo contrario. La solución fue un día
-                de natación, el deporte más refrescante posible, sobre todo para
-                la época de verano.</p>
-              <p>Aplicando mis aprendizajes anteriores de primaria y la ESO,
-                practiqué los tres estilos principales (crol, espalda y braza),
-                con más de 20 largos de cada uno, para mantener la variedad sin
-                perder el esfuerzo. También intenté un par de largos de
-                mariposa, pero mis técnicas no fueron muy efectivas.</p>
-              <p>Por último, le eché una carrera a un amigo que había venido
-                conmigo, pero hacerla al final de todo el entrenamiento no fue
-                muy ventajoso para mí, así que acabé quedando segundo. Este día
-                me recordó por qué la natación es uno de mis deportes favoritos,
-                y sin duda iré este verano algún otro día, aunque no sea con un
-                entrenamiento tan exhaustivo.</p>
+              <p style="text-align: justify;">Tras mi experiencia senderista
+                veraniega, necesitaba una forma de ejercicio que fuera todo lo
+                contrario. La solución fue un día de natación, el deporte más
+                refrescante posible, sobre todo para la época de verano.</p>
+              <p style="text-align: justify;">Aplicando mis aprendizajes
+                anteriores de primaria y la ESO, practiqué los tres estilos
+                principales (crol, espalda y braza), con más de 20 largos de
+                cada uno, para mantener la variedad sin perder el esfuerzo.
+                También intenté un par de largos de mariposa, pero mis técnicas
+                no fueron muy efectivas.</p>
+              <p style="text-align: justify;">Por último, le eché una carrera a
+                un amigo que había venido conmigo, pero hacerla al final de todo
+                el entrenamiento no fue muy ventajoso para mí, así que acabé
+                quedando segundo. Este día me recordó por qué la natación es uno
+                de mis deportes favoritos, y sin duda iré este verano algún otro
+                día, aunque no sea con un entrenamiento tan exhaustivo.</p>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="actividad.html">Actividad</a>

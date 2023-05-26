@@ -25,7 +25,8 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
   </head>
-  <body id="top" class="ss-single"> <!-- preloader
+  <body id="top" class="ss-single">
+    <!-- preloader
     ================================================== -->
     <div id="preloader">
       <div id="loader" class="dots-fade">
@@ -40,8 +41,7 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
-
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -97,8 +97,7 @@
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content"> <img class="h-pull-right" src="images/circuito%20dibujo.jpg"
-
+            <div class="entry__content"> <img class="h-pull-right" src="images/circuito%20dibujo.jpg"
                 alt="" title="circuito dibujo" style="width: 218px; height: 263px;">
               <p style="text-align: justify;">Hace unos meses, en la asignatura
                 de Dibujo Técnico estudiamos las tangencias: una manera de unir
@@ -107,8 +106,7 @@
                 Uno de los ejercicios que usamos para practicar fue un circuito
                 de carreras, y tuve la idea de aplicar esos conocimientos a un
                 ámbito más ocioso y creativo.</p>
-              <img class="h-pull-left" src="images/circuito%20tm.png" alt="" title="circuito tm"
-
+              <img class="h-pull-left" src="images/circuito%20tm.png" alt="" title="circuito tm"
                 style="width: 174px; height: 275px;">
               <p style="text-align: justify;">Usando el editor de mapas de
                 TrackMania, un videojuego de carreras que te permite diseñar tus
@@ -118,25 +116,22 @@
                 diferentes de mi vida diaria es una sensación buenísima, y
                 aunque no fuera un proyecto muy complejo, estoy muy contento con
                 el resultado.</p>
-              <p style="text-align: justify;">El circuito se puede descargar <a
-
+              <p style="text-align: justify;">El circuito se puede descargar <a
                   href="files/Circuito%20Dibujo%20Tecnico.Map.Gbx">aquí</a> y lo
                 puedes probar si tienes el juego. No es una recreación perfecta
                 debido a las limitaciones del juego, pero representa bastante
                 bien cómo se conduciría si se trasladara a la realidad.</p>
-              <div class="video-container"> <iframe src="videos/circuito%20dibujo%20tecnico.mp4"
-
-                  webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""
-
+              <div class="video-container"> <iframe src="videos/circuito%20dibujo%20tecnico.mp4"
+                  webkitallowfullscreen="" mozallowfullscreen="" allowfullscreen=""
                   height="281" frameborder="0" width="500"></iframe> </div>
               <!-- entry__content -->
               <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a></p>
               <ul class="entry__post-nav h-group">
-              <li class="prev"><a rel="prev" href="comba.html"><strong class="h6">Reflexión
-                    anterior</strong> Comba</a></li>
-              <li class="next"><a rel="next" href="senderismo.html"><strong
-                    class="h6">Siguiente reflexión</strong> Senderismo</a></li>
-            </ul>
+                <li class="prev"><a rel="prev" href="comba.html"><strong class="h6">Reflexión
+                      anterior</strong> Comba</a></li>
+                <li class="next"><a rel="next" href="senderismo.html"><strong class="h6">Siguiente
+                      reflexión</strong> Senderismo</a></li>
+              </ul>
               <!-- end entry -->
               <div class="widget widget--categories">
                 <h3 class="h6">Etiquetas</h3>
@@ -159,11 +154,9 @@
                   design by <a href="https://www.styleshout.com/">StyleShout</a></span>
               </div>
               <!-- end footer__bottom -->
-              <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top"
-
+              <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top"
                   href="#top">
-                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
-
+                  <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
                     viewBox="0 0 24 24"><path d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg>
                 </a> </div>
               <!-- end ss-go-top --> </footer>

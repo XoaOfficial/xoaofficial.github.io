@@ -41,8 +41,7 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
-
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -88,8 +87,9 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1">Tenis... con caniCAS<br>
-              </h2>
+              <h2 class="entry__title h1"><a href="pingpong.html" title="">Un
+                  fraCASo relativo</a></h2>
+              <h2 class="entry__title h1"> </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Taller de Ping-Pong</li>
@@ -99,44 +99,39 @@
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
-
-                srcset="images/wheel-1000.jpg 1000w, 
-                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
-
-                alt=""> </div>
             <div class="entry__content">
-              <p>El primer problema que nos encontramos al intentar organizar el
-                taller fue la calidad del material. Las mesas y palas llevan más
-                de seis años en el gimnasio, y el cuidado que han recibido ha
-                sido deficiente, por no decir pésimo. Alrededor de la mitad de
-                las mesas tenían alguna pata rota, haciéndolas inutilizables, y
-                cada intento de organizar el material para dejar a mano las
-                pocas utilizables acababa con un desorden aún mayor al empezar
-                el taller de la semana siguiente.</p>
-              <p>A esto se le sumaban la disponibilidad del gimnasio: aunque en
-                teoría estaba reservado para nuestra actividad, a veces nos lo
-                encontrábamos ocupado, y nos tocaba quedarnos con un pequeño
-                trozo en la esquina. La situación llegó a niveles tan absurdos
-                que una vez nos ocuparon el gimnasio los alumnos de la
-                extraescolar de teatro, porque a ellos les habían ocupado media
-                hora antes el propio teatro.</p>
-              <p>Tristemente, hablar con los profesores de educación física no
-                arregló mucho, y lo poco que consiguió fue que el material se
-                organizara de una manera ligeramente mejor. La actividad de
-                Ping-Pong me encanta, pero con todo lo que rodea al juego en sí,
-                no puedo decir que haya disfrutado organizando el taller. Ha
-                sido una de las mayores fuentes de frustración que he tenido en
-                todo CAS, y le deseo mucha suerte y mucha paciencia a los
-                alumnos que hereden el taller para el curso que viene, porque si
-                siguen las cosas así, no va a ser una tarea fácil.</p>
+              <p style="text-align: justify;">El primer problema que nos
+                encontramos al intentar organizar el taller fue la calidad del
+                material. Las mesas y palas llevan más de seis años en el
+                gimnasio, y el cuidado que han recibido ha sido deficiente, por
+                no decir pésimo. Alrededor de la mitad de las mesas tenían
+                alguna pata rota, haciéndolas inutilizables, y cada intento de
+                organizar el material para dejar a mano las pocas utilizables
+                acababa con un desorden aún mayor al empezar el taller de la
+                semana siguiente.</p>
+              <p style="text-align: justify;">A esto se le sumaban la
+                disponibilidad del gimnasio: aunque en teoría estaba reservado
+                para nuestra actividad, a veces nos lo encontrábamos ocupado, y
+                nos tocaba quedarnos con un pequeño trozo en la esquina. La
+                situación llegó a niveles tan absurdos que una vez nos ocuparon
+                el gimnasio los alumnos de la extraescolar de teatro, porque a
+                ellos les habían ocupado media hora antes el propio teatro.</p>
+              <p style="text-align: justify;">Tristemente, hablar con los
+                profesores de educación física no arregló mucho, y lo poco que
+                consiguió fue que el material se organizara de una manera
+                ligeramente mejor. La actividad de Ping-Pong me encanta, pero
+                con todo lo que rodea al juego en sí, no puedo decir que haya
+                disfrutado organizando el taller. Ha sido una de las mayores
+                fuentes de frustración que he tenido en todo CAS, y le deseo
+                mucha suerte y mucha paciencia a los alumnos que hereden el
+                taller para el curso que viene, porque si siguen las cosas así,
+                no va a ser una tarea fácil.</p>
             </div>
             <!-- entry__content -->
-            <p class="entry__tags"> <span>Etiquetado en </span>: <a href="actividad.html">Actividad</a>, <a href="servicio.html">Servicio</a>
-            </p>
+            <p class="entry__tags"> <span>Etiquetado en </span>: <a href="actividad.html">Actividad</a>,
+              <a href="servicio.html">Servicio</a> </p>
             <ul class="entry__post-nav h-group">
-              <li class="prev"><a rel="prev" href="pingpong+a%C3%B1o+2.html"><strong
-
+              <li class="prev"><a rel="prev" href="pingpong+a%C3%B1o+2.html"><strong
                     class="h6">Reflexión anterior</strong> Ping-Pong - Año 2</a></li>
               <li class="next"><a rel="next" href="ayuda%20mutua.html"><strong class="h6">Siguiente
                     reflexión</strong> Ayuda Mutua</a></li>
@@ -164,8 +159,7 @@
       </div>
       <!-- end footer__bottom -->
       <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
-
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
               d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
       <!-- end ss-go-top --> </footer>
     <!-- end Footer-->

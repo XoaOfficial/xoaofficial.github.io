@@ -98,18 +98,20 @@
             </header>
             <!-- entry__header -->
             <div class="entry__content">
-              <p>Ya había jugado bastante tiempo al ping-pong antes de venir al
-                instituto, pero nunca de una manera competitiva ni muy seria,
-                sino más relajado y por diversión. Sin embargo, en el taller de
-                ping-pong me lo podía tomar más seriamente, sin dejar de lado la
-                parte divertida pero sí con ganas de mejorar mi habilidad.</p>
-              <p>Semanalmente fui aprendiendo diferentes técnicas y fui
-                mejorando poco a poco. Todavía no soy capaz de ganarle a los
-                mejores jugadores del instituto, pero yo he notado una mejora
-                clara y progresiva a lo largo del curso.</p>
-              <p>Las clases en sí son muy entretenidas y me lo paso muy bien, y
-                el ping-pong es sin duda uno de mis deportes favoritos hoy en
-                día, ya sea como ocio o para ponerme en serio a intentar ganar.</p>
+              <p style="text-align: justify;">Ya había jugado bastante tiempo al
+                ping-pong antes de venir al instituto, pero nunca de una manera
+                competitiva ni muy seria, sino más relajado y por diversión. Sin
+                embargo, en el taller de ping-pong me lo podía tomar más
+                seriamente, sin dejar de lado la parte divertida pero sí con
+                ganas de mejorar mi habilidad.</p>
+              <p style="text-align: justify;">Semanalmente fui aprendiendo
+                diferentes técnicas y fui mejorando poco a poco. Todavía no soy
+                capaz de ganarle a los mejores jugadores del instituto, pero yo
+                he notado una mejora clara y progresiva a lo largo del curso.</p>
+              <p style="text-align: justify;">Las clases en sí son muy
+                entretenidas y me lo paso muy bien, y el ping-pong es sin duda
+                uno de mis deportes favoritos hoy en día, ya sea como ocio o
+                para ponerme en serio a intentar ganar.</p>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="actividad.html">Actividad</a>

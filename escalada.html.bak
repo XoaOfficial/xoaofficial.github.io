@@ -25,8 +25,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
   </head>
-  <body id="top" class="ss-single">
-    <!-- preloader
+  <body id="top" class="ss-single"> <!-- preloader
     ================================================== -->
     <div id="preloader">
       <div id="loader" class="dots-fade">
@@ -41,7 +40,8 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -87,8 +87,9 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1">Tenis... con caniCAS<br>
-              </h2>
+              <h2 class="entry__title h1"><a href="escalada.html">Escalando
+                  rocas con CASpa en las manos</a></h2>
+              <h2 class="entry__title h1"> </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Escalada</li>
@@ -97,36 +98,37 @@
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
-                srcset="images/wheel-1000.jpg 1000w, 
-                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
-                alt=""> </div>
+            <div class="entry__content-media"> <img src="images/escalada1.jpg" alt="">
+            </div>
             <div class="entry__content">
-              <p>La escalada es un deporte que siempre me había llamado la
-                atención, pero que nunca me había atrevido a probar. Desde la
-                imponente pared gigante con la que empezar, hasta la falta de
-                conocimiento sobre el material o espacios óptimos, parecía una
-                actividad muy divertida que no iba a poder disfrutar si no me
-                ponía en serio.</p>
-              <p>Por eso cuando unos amigos me propuesieron apuntarme a su
-                mañana de rocódromo un fin de semana, decidí darle una
-                oportunidad al deporte. Con guías sobre cómo agarrarme
-                correctamente a las presas, cúando usar el magnesio (un polvo
-                blanco que evita que las manos suden y resbalen), y cuáles eran
-                los bloques más aptos para principiantes, pude empezar a escalar
-                de verdad y a disfrutar del deporte.</p>
-              <p>Esa mañana acabé completamente agotado, tanto de piernas como
-                de brazos, y sobre todo de fuerza de dedos. Sin embargo, me lo
-                pasé genial, y logré escalar algunas paredes que inicialmente
-                parecían imposibles. Este deporte proporciona tanto cansancio
-                como satisfacción, y se lo recomendaría a cualquiera que
-                estuviera pensando en darle una oportunidad.</p>
+              <p style="text-align: justify;">La escalada es un deporte que
+                siempre me había llamado la atención, pero que nunca me había
+                atrevido a probar. Desde la imponente pared gigante con la que
+                empezar, hasta la falta de conocimiento sobre el material o
+                espacios óptimos, parecía una actividad muy divertida que no iba
+                a poder disfrutar si no me ponía en serio.</p>
+              <p style="text-align: justify;">Por eso cuando unos amigos me
+                propuesieron apuntarme a su mañana de rocódromo un fin de
+                semana, decidí darle una oportunidad al deporte. Con guías sobre
+                cómo agarrarme correctamente a las presas, cúando usar el
+                magnesio (un polvo blanco que evita que las manos suden y
+                resbalen), y cuáles eran los bloques más aptos para
+                principiantes, pude empezar a escalar de verdad y a disfrutar
+                del deporte.</p>
+              <p style="text-align: justify;">Esa mañana acabé completamente
+                agotado, tanto de piernas como de brazos, y sobre todo de fuerza
+                de dedos. Sin embargo, me lo pasé genial, y logré escalar
+                algunas paredes que inicialmente parecían imposibles. Este
+                deporte proporciona tanto cansancio como satisfacción, y se lo
+                recomendaría a cualquiera que estuviera pensando en darle una
+                oportunidad.</p>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="actividad.html">Actividad</a>
             </p>
             <ul class="entry__post-nav h-group">
-              <li class="prev"><a rel="prev" href="servicio%20en%20el%20instituto.html"><strong
+              <li class="prev"><a rel="prev" href="servicio%20en%20el%20instituto.html"><strong
+
                     class="h6">Reflexión anterior</strong> Servicio en el
                   instituto</a></li>
               <li class="next"><a rel="next" href="escalada%202.html"><strong class="h6">Siguiente
@@ -155,7 +157,8 @@
       </div>
       <!-- end footer__bottom -->
       <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+
               d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
       <!-- end ss-go-top --> </footer>
     <!-- end Footer-->

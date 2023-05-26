@@ -41,7 +41,8 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -111,25 +112,23 @@
                 las partes más difíciles como las flexiones con palmada o la
                 posición de rana, en la que me tengo que sostener apoyando las
                 rodillas en los codos, y las manos en el suelo.</p>
-              <p style="height: 32px; margin-top: 0px; text-align: justify;">Al
+              <p style="text-align: justify;">Al
                 final de cada sesión, tenemos un reto final, que consiste en
                 aguantar lo máximo posible haciendo el reto de flexiones de
                 "Bring Sally Up", una canción en la que dicen las palabras "up"
                 y "down" muchas veces, y tienes que seguir el ritmo subiendo y
                 bajando en el momento que diga la canción. Por ahora solo he
-                podido llegar a 25 segundos, pero tengo </p>
-              <p style="height: 32px; margin-top: 0px; text-align: justify;"><br>
-              </p>
-              <p style="height: 32px; margin-top: 0px; text-align: justify;">ganas
-                de continuar y ver hasta dónde soy capaz de avanzar.</p>
+                podido llegar a 25 segundos, pero tengo ganas de continuar y ver
+                hasta dónde soy capaz de avanzar.</p>
             </div>
             <!-- entry__content -->
-            <p class="entry__tags"> <span>Etiquetado en </span>: <a href="actividad.html">Actividad</a>
+            <p class="entry__tags"><span>Etiquetado en </span>: <a href="actividad.html">Actividad</a>
             </p>
             <ul class="entry__post-nav h-group">
               <li class="prev"><a rel="prev" href="maxibi.html"><strong class="h6">Reflexión
                     anterior</strong> MaxiBI - MiniBI</a></li>
-              <li class="next"><a rel="next" href="calistenia%202.html"><strong
+              <li class="next"><a rel="next" href="calistenia%202.html"><strong
+
                     class="h6">Siguiente reflexión</strong> Calistenia - Parte 2</a></li>
             </ul>
           </article>
@@ -155,7 +154,8 @@
       </div>
       <!-- end footer__bottom -->
       <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+
               d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
       <!-- end ss-go-top --> </footer>
     <!-- end Footer-->

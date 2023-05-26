@@ -25,8 +25,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
   </head>
-  <body id="top" class="ss-single">
-    <!-- preloader
+  <body id="top" class="ss-single"> <!-- preloader
     ================================================== -->
     <div id="preloader">
       <div id="loader" class="dots-fade">
@@ -41,7 +40,8 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -87,9 +87,10 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1">Le das al botón, y arranCAS el
-                programa<br>
-              </h2>
+              <h2 class="entry__title h1"><a href="taller%20programacion+a%C3%B1o+2.html"
+
+                  title="">CAS++</a></h2>
+              <h2 class="entry__title h1"> </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Taller de programación - Año 2</li>
@@ -99,42 +100,44 @@
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/taller1.jpeg" alt="">
+            <div class="entry__content-media"> <img src="images/taller3.jpeg" alt="">
             </div>
             <div class="entry__content">
-              <p>El comienzo del nuevo curso trajo consigo un nuevo inicio para
-                el taller de programación, con una cantidad enorme de alumnos en
-                los primeros días. Sin embargo, nuestra planificación y
-                organización había mejorado enormemente respecto del curso
-                anterior, y logramos explicar las ideas más básicas de manera
-                clara y coherente. También debo mencionar a Fernando, nuestro
-                nuevo fichaje para el curso y especialista en C++, que se centró
-                en la parte más orientada a robótica del taller.</p>
-              <p>Pocas semanas después, ya solo quedaban los alumnos recurrentes
-                que seguirían viniendo el resto del curso, unas seis personas
-                con las que avanzamos temario poco a poco. Logramos llegar a un
-                nivel un poco superior que el año pasado, por lo que
-                consideraría que nuestro trabajo dio sus frutos. Para febrero,
-                mes de CodeWars, habíamos dado todos los bucles y condicionales,
-                además de una pequeña parte de funciones, por lo que todos
-                íbamos bien preparados para la competición. <i>(la reflexión
-                  sobre el segundo año de CodeWars en sí está en la siguiente
-                  entrada del blog)</i></p>
-              <div class="entry__content-media"> <img src="images/taller2.jpeg"
-                  alt=""> </div>
-              <p>Por último, al acercarse el final del programa CAS, tocaba que
-                algún alumno de primero heredara el taller, y los elegidos
-                fueron Dani, Carlos y Jaime, quienes habían estado participando
-                en el taller durante todo el curso. He tenido la suerte de
-                asistir a alguna de sus clases, y aunque el estilo de enseñanza
-                es diferente al nuestro, puedo confirmar que el espíritu
-                programador perdura.</p>
+              <p style="text-align: justify;">El comienzo del nuevo curso trajo
+                consigo un nuevo inicio para el taller de programación, con una
+                cantidad enorme de alumnos en los primeros días. Sin embargo,
+                nuestra planificación y organización había mejorado enormemente
+                respecto del curso anterior, y logramos explicar las ideas más
+                básicas de manera clara y coherente. También debo mencionar a
+                Fernando, nuestro nuevo fichaje para el curso y especialista en
+                C++, que se centró en la parte más orientada a robótica del
+                taller.</p>
+              <p style="text-align: justify;">Pocas semanas después, ya solo
+                quedaban los alumnos recurrentes que seguirían viniendo el resto
+                del curso, unas seis personas con las que avanzamos temario poco
+                a poco. Logramos llegar a un nivel un poco superior que el año
+                pasado, por lo que consideraría que nuestro trabajo dio sus
+                frutos. Para febrero, mes de CodeWars, habíamos dado todos los
+                bucles y condicionales, además de una pequeña parte de
+                funciones, por lo que todos íbamos bien preparados para la
+                competición. <i>(la reflexión sobre el segundo año de CodeWars
+                  en sí está en la siguiente entrada del blog)</i></p>
+              <p style="text-align: justify;">Por último, al acercarse el final
+                del programa CAS, tocaba que algún alumno de primero heredara el
+                taller, y los elegidos fueron Dani, Carlos y Jaime, quienes
+                habían estado participando en el taller durante todo el curso.
+                He tenido la suerte de asistir a alguna de sus clases, y aunque
+                el estilo de enseñanza es diferente al nuestro, puedo confirmar
+                que el espíritu programador perdura.</p>
+              <div class="entry__content-media"> <img src="images/taller4.jpeg" alt="">
+            </div>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="servicio.html">Servicio</a>,
               <a href="creatividad.html">Creatividad</a> </p>
             <ul class="entry__post-nav h-group">
-              <li class="prev"><a rel="prev" href="taller%20programacion.html"><strong
+              <li class="prev"><a rel="prev" href="taller%20programacion.html"><strong
+
                     class="h6">Reflexión anterior</strong> Taller de
                   programación</a></li>
               <li class="next"><a rel="next" href="codewars.html"><strong class="h6">Siguiente
@@ -165,7 +168,8 @@
             <a href="https://www.styleshout.com/">StyleShout</a></span> </div>
         <!-- end footer__bottom -->
         <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+
                 d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
         <!-- end ss-go-top --> </footer>
       <!-- end Footer-->

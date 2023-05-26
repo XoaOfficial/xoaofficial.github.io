@@ -87,8 +87,9 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1">Tenis... con caniCAS<br>
-              </h2>
+              <h2 class="entry__title h1"><a href="senderismo%20caluroso.html">PoCAS
+                  sombras, mucho calor</a></h2>
+              <h2 class="entry__title h1"> </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Senderismo caluroso</li>
@@ -97,25 +98,23 @@
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
-                srcset="images/wheel-1000.jpg 1000w, 
-                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
-                alt=""> </div>
             <div class="entry__content">
-              <p>Para el verano me había propuesto centrarme en las experiencias
-                de actividad, y ¿hay una mejor manera de hacer ejercicio que un
-                día de senderismo en familia? Pues teniendo en cuenta esta
-                experiencia, cualquier otra cosa.</p>
-              <p>Logramos calcular los horarios tan mal que no solo tuvimos casi
-                todas las horas de sol, sino también las más calurosas. En un
-                bosque o pradera con árboles no habría sido un problema, pero
-                cuando el camino entero eran rocas y arena, la cosa era muy
-                diferente. Obviamente, teníamos protección solar y ropa
-                veraniega, pero del calor no se podía escapar.</p>
-              <p>La ruta en sí no fue demasiado difícil, y las vistas a Madrid
-                eran muy bonitas, pero no puedo decir que el día completo fuera
-                una experiencia placentera ni enriquecedora. Por favor, si vais
-                a la Sierra en verano, planificad mejor que lo que hice yo.</p>
+              <p style="text-align: justify;">Para el verano me había propuesto
+                centrarme en las experiencias de actividad, y ¿hay una mejor
+                manera de hacer ejercicio que un día de senderismo en familia?
+                Pues teniendo en cuenta esta experiencia, cualquier otra cosa.</p>
+              <p style="text-align: justify;">Logramos calcular los horarios tan
+                mal que no solo tuvimos casi todas las horas de sol, sino
+                también las más calurosas. En un bosque o pradera con árboles no
+                habría sido un problema, pero cuando el camino entero eran rocas
+                y arena, la cosa era muy diferente. Obviamente, teníamos
+                protección solar y ropa veraniega, pero del calor no se podía
+                escapar.</p>
+              <p style="text-align: justify;">La ruta en sí no fue demasiado
+                difícil, y las vistas a Madrid eran muy bonitas, pero no puedo
+                decir que el día completo fuera una experiencia placentera ni
+                enriquecedora. Por favor, si vais a la Sierra en verano,
+                planificad mejor que lo que hice yo.</p>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="actividad.html">Actividad</a>

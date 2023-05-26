@@ -87,7 +87,9 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> Ni Disney tiene tan buen CASting </h2>
+              <h2 class="entry__title h1"><a href="teatro%202.html" title="">Las
+                  ideas más loCAS dan las obras más divertidas</a></h2>
+              <h2 class="entry__title h1"></h2>
               <div class="entry__meta">
                 <ul>
                   <li>Teatro - Parte 2</li>
@@ -97,34 +99,32 @@
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/teatro1.jpg" alt="">
-            </div>
             <div class="entry__content">
-              <p>La obra ha salido muy bien. Había muchos nervios al empezar, y
-                nos hemos trabado en un par de frases, pero todo el resto del
-                estreno ha sido genial, tanto por las risas del público como por
-                nuestro propio disfrute al actuar.</p>
-              <p>Poco después de la anterior reflexión, nos dimos cuenta de que
-                nuestras preferencias artísticas, y nuestro propio estilo de
-                actuar, pedían una obra mucho más graciosa: absurda y llena de
-                chistes, pero con críticas serias de fondo hacia la familia. Y
-                eso hicimos. Algunas de mis escenas favoritas son la de los
-                padres criticando el estilo demasiado "formal" y "serio" de su
-                hija, mientras incentivan la ropa "alternativa" y "de moda" de
-                su hijo; la de la clásica charla sobre el sexo que todos tuvimos
-                que pasar en nuestra pubertad, con más metáforas y figuras que
-                explicaciones realmente claras; y la del concurso, en la que
-                tres hermanos discuten para librarse de llevar a la tía a
-                Albacete, pero en un plató de televisión.</p>
-              <div class="entry__content-media"> <img src="images/teatro2.jpg"
-                  alt=""> </div>
-              <p>Hemos buscado entretener y criticar sin rubor, hacer pensar a
-                los padres y familiares sin atacarles directamente, y sobre todo
-                hacer que se puedan reír de ellos mismos y verse identificados
-                en los personajes, pero que no se ofendan porque nos hayamos
-                pasado de tono. Estoy muy contento con el resultado final, y
-                diría que es la mejor obra que hemos estrenado en este grupo
-                hasta la fecha.</p>
+              <p style="text-align: justify;">La obra ha salido muy bien. Había
+                muchos nervios al empezar, y nos hemos trabado en un par de
+                frases, pero todo el resto del estreno ha sido genial, tanto por
+                las risas del público como por nuestro propio disfrute al
+                actuar.</p>
+              <p style="text-align: justify;">Poco después de la anterior
+                reflexión, nos dimos cuenta de que nuestras preferencias
+                artísticas, y nuestro propio estilo de actuar, pedían una obra
+                mucho más graciosa: absurda y llena de chistes, pero con
+                críticas serias de fondo hacia la familia. Y eso hicimos.
+                Algunas de mis escenas favoritas son la de los padres criticando
+                el estilo demasiado "formal" y "serio" de su hija, mientras
+                incentivan la ropa "alternativa" y "de moda" de su hijo; la de
+                la clásica charla sobre el sexo que todos tuvimos que pasar en
+                nuestra pubertad, con más metáforas y figuras que explicaciones
+                realmente claras; y la del concurso, en la que tres hermanos
+                discuten para librarse de llevar a la tía a Albacete, pero en un
+                plató de televisión.</p>
+              <p style="text-align: justify;">Hemos buscado entretener y
+                criticar sin rubor, hacer pensar a los padres y familiares sin
+                atacarles directamente, y sobre todo hacer que se puedan reír de
+                ellos mismos y verse identificados en los personajes, pero que
+                no se ofendan porque nos hayamos pasado de tono. Estoy muy
+                contento con el resultado final, y diría que es la mejor obra
+                que hemos estrenado en este grupo hasta la fecha.</p>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a>

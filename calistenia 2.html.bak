@@ -25,8 +25,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
   </head>
-  <body id="top" class="ss-single">
-    <!-- preloader
+  <body id="top" class="ss-single"> <!-- preloader
     ================================================== -->
     <div id="preloader">
       <div id="loader" class="dots-fade">
@@ -41,7 +40,8 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -98,21 +98,22 @@
             </header>
             <!-- entry__header -->
             <div class="entry__content">
-              <p>Ya van cinco semanas de calistenia, y he notado una mejoría
-                enorme. Sigo sin tener una fuerza impresionante, pero el aumento
-                relativo ha sido muy grande. En cuanto a resultados físicos, ha
-                sido un éxito.</p>
-              <p>En el reto del "Bring Sally Up", he llegado a 56 segundos, más
-                que duplicando mi tiempo inicial, aunque sigo sin poder hacer la
-                canción entera. Estoy muy contento con los resultados, y sobre
-                todo he notado la mucha mejor resistencia que tengo para
-                aguantar los ejercicios más duros.</p>
-              <p>Además, el cansancio de después de cada entrenamiento no me ha
-                desmotivado, sino que me ha dado una sensación de calma y
-                satisfacción que se aprecia enormemente en la época de exámenes.
-                Por todo esto, esta ha sido probablemente mi mejor experiencia
-                de ejercicio puramente de fuerza en mucho tiempo, así que le
-                tengo que dar las gracias a Dani por la idea.</p>
+              <p style="text-align: justify;">Ya van cinco semanas de
+                calistenia, y he notado una mejoría enorme. Sigo sin tener una
+                fuerza impresionante, pero el aumento relativo ha sido muy
+                grande. En cuanto a resultados físicos, ha sido un éxito.</p>
+              <p style="text-align: justify;">En el reto del "Bring Sally Up",
+                he llegado a 56 segundos, más que duplicando mi tiempo inicial,
+                aunque sigo sin poder hacer la canción entera. Estoy muy
+                contento con los resultados, y sobre todo he notado la mucha
+                mejor resistencia que tengo para aguantar los ejercicios más
+                duros.</p>
+              <p style="text-align: justify;">Además, el cansancio de después de
+                cada entrenamiento no me ha desmotivado, sino que me ha dado una
+                sensación de calma y satisfacción que se aprecia enormemente en
+                la época de exámenes. Por todo esto, esta ha sido probablemente
+                mi mejor experiencia de ejercicio puramente de fuerza en mucho
+                tiempo, así que le tengo que dar las gracias a Dani por la idea.</p>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="actividad.html">Actividad</a>
@@ -120,7 +121,8 @@
             <ul class="entry__post-nav h-group">
               <li class="prev"><a rel="prev" href="calistenia.html"><strong class="h6">Reflexión
                     anterior</strong> Calistenia</a></li>
-              <li class="next"><a rel="next" href="regalos+navide%C3%B1os.html"><strong
+              <li class="next"><a rel="next" href="regalos+navide%C3%B1os.html"><strong
+
                     class="h6">Siguiente reflexión</strong> Regalos navideños</a></li>
             </ul>
           </article>
@@ -146,7 +148,8 @@
       </div>
       <!-- end footer__bottom -->
       <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+
               d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
       <!-- end ss-go-top --> </footer>
     <!-- end Footer-->

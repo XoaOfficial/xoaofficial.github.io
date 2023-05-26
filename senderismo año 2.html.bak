@@ -87,8 +87,10 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> <a href="#" title="">CAScadas
-                  congeladas en Riaza</a> </h2>
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="senderismo+a%C3%B1o+2.html" title="">Frambuesas,
+                  arándanos, pero no CAStañas</a></h2>
+              <h2 class="entry__title h1"><a href="#" title=""></a> </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Senderismo - Año 2</li>
@@ -98,33 +100,27 @@
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/senderismo2.jpg"
-                alt=""> </div>
             <div class="entry__content">
-              <p>En otro de nuestros viajes a la provincia de Segovia, decidimos
-                hacer una ruta por Riofrío de Riaza, un muy pequeño pueblo cerca
-                de Riaza. El problema de la España vaciada ha sido una
-                preocupación durante varios años ya, pero realmente representa
-                una tendencia global de migración hacia las ciudades, dejando
-                los pueblos descuidados o incluso abandonados.</p>
-              <div class="entry__content-media"> <img src="images/senderismo9.jpeg"
-                  alt=""> </div>
-              <p>Por eso, decidimos aprovechar nuestro viaje para ayudar a los
-                comercios locales del lugar: concretamente, una pequeña
-                plantación de frutos en las afueras del pueblo que distribuye
-                sus productos a otras pobleciones del alrededor. Después de
-                ayudar a recoger unas pocas frambuesas y unos cuantos arándanos,
-                nos dieron unos pocos para probar, y la diferencia entre el
-                procesado artificial y la plantación natural se notaba muy
-                claramente.</p>
-              <div class="entry__content-media"> <img src="images/senderismo6.jpeg"
-                  alt=""> </div>
-              <p>La ruta en sí fue también muy disfrutable, y las vistas
-                impresionantes, como de costumbre por la zona. El paseo se hizo
-                muy agradable (en parte gracias a la sombra de los árboles), y
-                sí es una experiencia que recomendaría.</p>
-              <div class="entry__content-media"> <img src="images/senderismo5.jpeg"
-                  alt=""> </div>
+              <p style="text-align: justify;">En otro de nuestros viajes a la
+                provincia de Segovia, decidimos hacer una ruta por Riofrío de
+                Riaza, un muy pequeño pueblo cerca de Riaza. El problema de la
+                España vaciada ha sido una preocupación durante varios años ya,
+                pero realmente representa una tendencia global de migración
+                hacia las ciudades, dejando los pueblos descuidados o incluso
+                abandonados.</p>
+              <p style="text-align: justify;">Por eso, decidimos aprovechar
+                nuestro viaje para ayudar a los comercios locales del lugar:
+                concretamente, una pequeña plantación de frutos en las afueras
+                del pueblo que distribuye sus productos a otras pobleciones del
+                alrededor. Después de ayudar a recoger unas pocas frambuesas y
+                unos cuantos arándanos, nos dieron unos pocos para probar, y la
+                diferencia entre el procesado artificial y la plantación natural
+                se notaba muy claramente.</p>
+              <p style="text-align: justify;">La ruta en sí fue también muy
+                disfrutable, y las vistas impresionantes, como de costumbre por
+                la zona. El paseo se hizo muy agradable (en parte gracias a la
+                sombra de los árboles), y sí es una experiencia que
+                recomendaría.</p>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="actividad.html">Actividad</a>

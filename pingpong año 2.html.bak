@@ -25,8 +25,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
   </head>
-  <body id="top" class="ss-single">
-    <!-- preloader
+  <body id="top" class="ss-single"> <!-- preloader
     ================================================== -->
     <div id="preloader">
       <div id="loader" class="dots-fade">
@@ -41,7 +40,8 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
+
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -98,21 +98,25 @@
               </div>
             </header>
             <!-- entry__header -->
+            <div class="entry__content-media"> <img src="images/pingpong.jpg" alt="">
+            </div>
             <div class="entry__content">
-              <p>El segundo año, no solo seguí yendo todos los miércoles a
-                Ping-Pong, sino que traje un nuevo recluta: mi hermano pequeño,
-                David. Con la ayuda de mis compañeros, mejoré considerablemente,
-                aunque seguía sin llegar al nivel de los mejores del curso.</p>
-              <p>Sin embargo, el taller tuvo mucho menos tirón que el primer
-                año, y éramos muy pocos los que realmente estábamos allí cada
-                semana. Eran ocasiones especiales cuando venía algún grupillo de
-                gente a probar, pero la dificultad de horarios y la
-                disponibilidad de los coordinadores hacía que estuviéramos casi
-                siempre jugando contra las mismas personas.</p>
-              <p>Además, nos estábamos encontrando cada vez más problemas de
-                material y de espacios, así que decidí apuntarme al equipo de
-                organizadores para intentar mejorar algo la situación. Los
-                resultados están en la siguiente reflexión...</p>
+              <p style="text-align: justify;">El segundo año, no solo seguí
+                yendo todos los miércoles a Ping-Pong, sino que traje un nuevo
+                recluta: mi hermano pequeño, David. Con la ayuda de mis
+                compañeros, mejoré considerablemente, aunque seguía sin llegar
+                al nivel de los mejores del curso.</p>
+              <p style="text-align: justify;">Sin embargo, el taller tuvo mucho
+                menos tirón que el primer año, y éramos muy pocos los que
+                realmente estábamos allí cada semana. Eran ocasiones especiales
+                cuando venía algún grupillo de gente a probar, pero la
+                dificultad de horarios y la disponibilidad de los coordinadores
+                hacía que estuviéramos casi siempre jugando contra las mismas
+                personas.</p>
+              <p style="text-align: justify;">Además, nos estábamos encontrando
+                cada vez más problemas de material y de espacios, así que decidí
+                apuntarme al equipo de organizadores para intentar mejorar algo
+                la situación. Los resultados están en la siguiente reflexión...</p>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="actividad.html">Actividad</a>
@@ -120,7 +124,8 @@
             <ul class="entry__post-nav h-group">
               <li class="prev"><a rel="prev" href="pingpong.html"><strong class="h6">Reflexión
                     anterior</strong> Ping-Pong</a></li>
-              <li class="next"><a rel="next" href="taller%20pingpong.html"><strong
+              <li class="next"><a rel="next" href="taller%20pingpong.html"><strong
+
                     class="h6">Siguiente reflexión</strong> Taller de Ping-Pong</a></li>
             </ul>
           </article>
@@ -146,7 +151,8 @@
       </div>
       <!-- end footer__bottom -->
       <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
+
               d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
       <!-- end ss-go-top --> </footer>
     <!-- end Footer-->
