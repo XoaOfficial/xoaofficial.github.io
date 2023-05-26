@@ -25,8 +25,7 @@
     <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
     <link rel="manifest" href="site.webmanifest">
   </head>
-  <body id="top" class="ss-single">
-    <!-- preloader
+  <body id="top" class="ss-single"> <!-- preloader
     ================================================== -->
     <div id="preloader">
       <div id="loader" class="dots-fade">
@@ -129,8 +128,8 @@
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a>
             </p>
             <ul class="entry__post-nav h-group">
-              <li class="next"><a rel="next" href="codewars.html"><strong class="h6">Siguiente
-                    entrada</strong> CodeWars</a></li>
+              <li class="next"><a rel="next" href="taller programacion.html"><strong class="h6">Siguiente
+                    reflexión</strong> Taller de programación</a></li>
             </ul>
           </article>
           <!-- end entry --> </div>
@@ -138,10 +137,10 @@
         <div class="widget widget--categories">
           <h3 class="h6">Etiquetas</h3>
           <ul>
-            <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
-            <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
-            <li><a href="servicio.html" title="">Servicio</a> (523)</li>
-            <li><a href="otros.html" title="">Otros</a> (3)</li>
+            <li><a href="creatividad.html" title="">Creatividad</a> (18)</li>
+            <li><a href="actividad.html" title="">Actividad</a> (14)</li>
+            <li><a href="servicio.html" title="">Servicio</a> (19)</li>
+            <li><a href="otros.html" title="">Otros</a></li>
           </ul>
         </div>
       </div>
@@ -165,6 +164,5 @@
     ================================================== -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/main.js"></script>
-    
   </body>
 </html>

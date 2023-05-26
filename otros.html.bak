@@ -86,27 +86,215 @@
     <div class="s-content">
       <div class="row">
         <div id="main" class="s-content__main large-8 column">
-              <p> <i><br>
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1" style="text-align: center;"> <u>Primera
+                  entrevista</u></h2>
+              <p style="text-align: justify;"><i><br>
+                  (las respuestas para la primera entrevista las redacté en el
+                  perfil CAS, así que dejo por aquí el texto de nuevo)<br>
                 </i></p>
-              <p><i>(Nota para Cacho: la sección de Otros todavía no está
-                  hecha, pero es donde voy a poner el perfil, la reflexión
-                  final, los resultados del aprendizaje, etc. La sección de
-                  archivo será una recopilación de todas las reflexiones, cuando
-                  tenga un orden permanente decidido) </i></p>
-            <!-- end main -->
-            <div id="sidebar" class="s-content__sidebar large-4 column">
-              <div class="widget widget--categories">
-                <h3 class="h6">Etiquetas</h3>
-                <ul>
-                  <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
-                  <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
-                  <li><a href="servicio.html" title="">Servicio</a> (523)</li>
-                  <li><a href="otros.html" title="">Otros</a> (3)</li>
-                </ul>
-              </div>
+              <p style="text-align: justify;"> ¡Hola! Me llamo Diego de Mercado,
+                tengo 16 años y estoy cursando 1º de Bachillerato Internacional
+                en el IES Ramiro de Maeztu, clase W.</p>
+              <p style="text-align: justify;">Soy una persona muy creativa, y
+                aunque no lo veo como un objetivo profesional, me encanta
+                desarrollar ideas originales hasta un producto del que me sienta
+                orgulloso. Tampoco tengo ningún problema con ayudar a los demás,
+                dentro y fuera de casa, pero el ámbito de CAS en el que peor voy
+                es sin duda Actividad. No tengo ningún problema de salud
+                relacionado con esto, y llevo bien las clases de educación
+                física, pero mis esfuerzos físicos son mejorables. A medida que
+                los estudios se han ido volviendo más difíciles, he ido dejando
+                muchas actividades extraescolares deportivas, pero creo que las
+                actividades de CAS son mi oportunidad para retomar alguna de
+                ellas.</p>
+              <p style="text-align: justify;">Ahora mismo como ocio estoy
+                editando vídeos, creando mezclas con música y creando niveles en
+                videojuegos, aunque no estoy seguro si forma parte de las
+                actividades consideradas como creatividad. Ya me he apuntado a
+                varios talleres (estoy en programación, teatro y ping-pong) y
+                estoy en varios grupos con información para hacer servicio.
+                Aparte de esto, también me interesa aprender más sobre música,
+                ya sea composición, armonía, diseño de sonido o tal vez incluso
+                retomar el piano, aunque eso no me llama tanto ahora mismo.
+                También, aparte de diseñar mis propios mapas de videojuegos,
+                querría aprender a programar mis juegos propios desde cero. Para
+                actividad, hay muchas actividades que me encantaría probar, como
+                escalada, senderismo o ciclismo en montaña.</p>
+              <p style="text-align: justify;">Hace unos años viajé a República
+                Dominicana con mi familia, y estuve ayudando unos días en un
+                colegio para niños necesitados en el que trabaja mi tía, dando
+                clases extraescolares y colaborando en parte de la organización.
+                Me gustaría repetir la experiencia con unos años más de madurez
+                este verano, y creo que las actividades CAS son la ocasión
+                perfecta para ello. La escuela también tiene una ONG en España
+                con la que he colaborado varias veces, y a pesar de estar
+                centrada en Segovia se podría organizar alguna actividad de
+                recaudación aquí en Madrid.</p>
+              <p style="text-align: justify;">Estas son mis ideas y expectativas
+                para el programa de CAS. ¡Tengo muchísimas ganas de ver qué me
+                deparan estos dos años!</p>
+            </header>
+          </article>
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1" style="text-align: center;"> <u>Segunda
+                  entrevista</u></h2>
+              <p style="text-align: justify;"><b><br>
+                  -&nbsp;&nbsp; &nbsp;¿Qué es lo que te ha gustado,
+                  hasta ahora, más en CAS? ¿Qué ha sido con lo que has
+                  aprendido/crecido más en CAS?</b><br>
+                Me ha encantado las oportunidades que me da para hacer muchas
+                actividades que siempre me habían interesado pero no había
+                sacado tiempo o ganas para ellas. Yo creo que la recogida de
+                alimentos y el taller de programación han sido las experiencias
+                que más me han cambiado, no solo viendo cómo me relaciono con
+                los demás sino con lo que me gusta hacer y en el valor de mis
+                esfuerzos.<br>
+                <br>
+                <b>- ¿Qué es lo que más te gustaría alcanzar en CAS? ¿Cómo
+                  puedes hacerlo?</b><br>
+                De cara al segundo curso, me gustaría preparar el taller de
+                programación para que salga una actividad muy entretenida e
+                interesante para todos los que asistan, por el aprendizaje y por
+                las clases en sí. Junto con Nicolás, ya estamos organizando
+                mucho mejor el temario, y aprendiendo de los fallos más
+                importantes de este año.<br>
+                <br>
+                <b>- ¿Qué has desarrollado para tu proyecto de CAS? Debéis tener
+                  preparadas las metas que os habéis establecido con quién
+                  colaboráis; de si el proyecto implica Creatividad, Actividad,
+                  Servicio o una combinación de estas; de vuestras funciones y
+                  responsabilidades; y de vuestro progreso hasta la fecha.</b><br>
+                Es Creatividad, el taller de programación del que estaba
+                hablando justo antes. Nicolás se está encargando del temario más
+                avanzado como objetos o pygame, mientras que yo me estoy
+                centrando en hacer explicaciones lo más accesibles posibles para
+                que puedan entenderlas incluso personas que no han programado
+                nunca antes, y por ahora tenemos una idea general del temario y
+                un documento organizado con explicaciones básicas y apéndices
+                para muchas funciones. También nos hemos asegurado de usar
+                software gratuito que puedan instalarse todos los asistentes al
+                taller, aparte de preparar los ordenadores del instituto que
+                vamos a estar usando.<br>
+                <br>
+                <b>- Elige un resultado del aprendizaje y explica las pruebas
+                  que tienes de haberlo alcanzado y qué destacas como lo más
+                  significativo.</b><br>
+                El resultado 4, “Mostrar compromiso y perseverancia en las
+                experiencias de CAS”, se puede observar muy claramente en todas
+                las actividades semanales que he estado haciendo: a programación
+                voy todos los lunes, a teatro todos los martes, a ping-pong los
+                miércoles, etc. El compromiso y la consistencia es una cualidad
+                que creo que es muy importante en este tipo de actividades.<br>
+                <br>
+                <b>- ¿Qué tipo de CARPETA CAS estas realizando?</b><br>
+                Es una página web, por ahora no está terminada dado que algunos
+                detalles necesitan que tenga todas las reflexiones hechas (y eso
+                es imposible ahora mismo), pero el esqueleto y el diseño
+                general, además de todas las reflexiones que hecho hasta hoy, se
+                pueden ver en https://xoaofficial.github.io<br>
+                <br>
+                <b>- ¿Las pruebas que has recopilado de tu labor en CAS muestran
+                  una participación continua?</b><br>
+                Sí, creo, no estoy seguro de cómo demostrar continuidad con las
+                pruebas pero muchas de estas actividades se han repetido semanal
+                o mensualmente.<br>
+                <br>
+                <b>- ¿Qué experiencias CAS piensas realizar este verano? ¿Qué
+                  pruebas piensas aportar de estas experiencias para incluirlas
+                  en tu Carpeta CAS?</b><br>
+                Querría probar escalada, tengo pensado ir a República Dominicana
+                a hacer voluntariado, voy a preparar un vídeo explicando en
+                detalle cómo usar una calculadora gráfica, repetir alguna
+                experiencia que me haya gustado mucho… En general muchas cosas
+                de actividad y servicio, dado que eso es de lo que más me falta
+                ahora mismo. Las pruebas imagino que serán fotos, salvo en el
+                caso de que pueda incluir el propio resultado de la experiencia
+                como prueba.<br>
+                <br>
+                <b>- ¿Te has planteado un desafío CAS este verano?</b><br>
+                Ninguno en concreto, pero sí quiero continuar con el proyecto y
+                probar unas cuantas cosas nuevas, como he mencionado antes.<br>
+                <br>
+                <b>- ¿De qué formas te está sirviendo la reflexión? ¿Qué estas
+                  aprendiendo de ella?</b><br>
+                Me está sirviendo para organizar lo que he sentido y para lo que
+                me ha servido la experiencia CAS en cuestión, y apreciar cómo me
+                ha cambiado.<br>
+                <br>
+                <b>- ¿Puedes describir alguna situación en la que la reflexión
+                  sucediera de manera natural y sencilla? ¿En alguna ocasión la
+                  reflexión guiada te fue útil?</b><br>
+                En general la reflexión se suele hacer tediosa y algo pesada,
+                pero a veces simplemente tengo que plasmar mis pensamientos en
+                el ordenador y fluye muy rápidamente, como en el caso de teatro
+                o de la recogida de alimentos.<br>
+                <br>
+                <b>- ¿Algunas de tus reflexiones incluyen los cuatro elementos
+                  (qué pasó, cómo te sientes, ideas, y preguntas)?</b><br>
+                No específicamente como tal, pero sí incorporo la mayoría de
+                estos elementos en las reflexiones, con diferentes formatos
+                dependiendo del detalle que esté tratando en esa reflexión. Sin
+                embargo, no suelo incluir preguntas, dado que no tengo muy claro
+                qué tipo de preguntas debo añadir.</p>
+            </header>
+          </article>
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1" style="text-align: center;"> <u>Entrevista final</u></h2>
+            </header>
+          </article>
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1" style="text-align: center;"> <u>Resultados
+                  del aprendizaje</u></h2>
+              <p style="text-align: justify;"><br>
+                ¡Hola de nuevo! Me sigo llamando Diego de Mercado, pero he
+                crecido dos años y he terminado el bachillerato.</p>
+              <p style="text-align: justify;">Estos dos años me han cambiado
+                mucho, no solo académicamente sino moralmente, socialmente y
+                como persona en general. Viendo mis expectativas inciales para
+                el curso, no acerté en la mayoría de las cosas que iba a poder
+                hacer, principalmente con el viaje a República Dominicana, pero
+                al menos sí hubo escalada y senderismo.</p>
+              <p style="text-align: justify;">Mediante todas las actividades de
+                CAS, me he dado cuenta de muchas habilidades que no sabía que
+                tenía, me he superado, he crecido como persona, he pasado por
+                momentos altos y bajos, por tardes de trabajo creativo o
+                agotador, por fines de semana de servicio, por una enorme
+                variedad de actividades que no me esperaba hacer nunca, y sin
+                ningún tipo de duda puedo decir que ha merecido la pena.</p>
+              <p style="text-align: justify;">He aprendido nuevas habilidades,
+                he perdido miedos y vergüenzas antiguas, he afrontado desafíos
+                dificilísimos, y sobre todo, he hecho todo esto con una compañía
+                impresionante. Esta experiencia merece la pena por todos los
+                alumnos que venían cada lunes a programación, todos mis
+                compañeros de teatro, los pocos fanáticos del ping-pong que
+                quedaban en segundo, mis compañeros de clase, los minis, y todas
+                las personas con las que he compartido alguna de estas
+                actividades.</p>
+              <p style="text-align: justify;">Quiero cerrar la carpeta con un
+                mensaje de ánimo y alegría: si alguna de estas actividades te ha
+                llamado la atención, dale una oportunidad, no tengas miedo de
+                probar cosas nuevas ni de salir de tu zona de confort, porque
+                realmente vale la pena.</p>
+            </header>
+          </article>
+          <!-- end main -->
+          <div id="sidebar" class="s-content__sidebar large-4 column">
+            <div class="widget widget--categories">
+              <h3 class="h6">Etiquetas</h3>
+              <ul>
+                <li><a href="creatividad.html" title="">Creatividad</a> (18)</li>
+                <li><a href="actividad.html" title="">Actividad</a> (14)</li>
+                <li><a href="servicio.html" title="">Servicio</a> (19)</li>
+                <li><a href="otros.html" title="">Otros</a></li>
+              </ul>
             </div>
-            <!-- end sidebar -->
-        </div>
+          </div>
+          <!-- end sidebar --> </div>
         <!-- end row --> </div>
       <!-- end content-wrap -->
       <!-- Footer

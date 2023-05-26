@@ -130,20 +130,20 @@
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a>,
               <a href="actividad.html">Actividad</a> </p>
             <ul class="entry__post-nav h-group">
-              <li class="prev"><a rel="prev" href="challenge.html"><strong class="h6">Reflexión
-                    anterior</strong> Welcome to the challenge</a></li>
-              <li class="next"><a rel="next" href="#"><strong class="h6">Siguiente
-                    reflexión</strong> ???</a></li>
+              <li class="prev"><a rel="prev" href="recogida.html"><strong class="h6">Reflexión
+                    anterior</strong> Recogida de alimentos</a></li>
+              <li class="next"><a rel="next" href="circuito dibujo.html"><strong
+                    class="h6">Siguiente reflexión</strong> Circuito dibujo técnico</a></li>
             </ul>
           </article>
           <!-- end entry -->
           <div class="widget widget--categories">
             <h3 class="h6">Etiquetas</h3>
             <ul>
-              <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
-              <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
-              <li><a href="servicio.html" title="">Servicio</a> (523)</li>
-              <li><a href="otros.html" title="">Otros</a> (3)</li>
+              <li><a href="creatividad.html" title="">Creatividad</a> (18)</li>
+              <li><a href="actividad.html" title="">Actividad</a> (14)</li>
+              <li><a href="servicio.html" title="">Servicio</a> (19)</li>
+              <li><a href="otros.html" title="">Otros</a></li>
             </ul>
           </div>
         </div>

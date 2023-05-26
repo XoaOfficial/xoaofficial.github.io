@@ -87,13 +87,14 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> Definiciones bastante épiCAS<br>
+              <h2 class="entry__title h1">Definiciones bastante épiCAS<br>
               </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Diccionario Etimológico de Vocabulario Coloquial
                     Contemporáneo</li>
-                  <li><a href="creatividad.html" rel="category tag">Creatividad</a></li>
+                  <li><a href="creatividad.html" title="" rel="category tag">Creatividad</a>,
+                    <a href="servicio.html" title="" rel="category tag">Servicio</a></li>
                 </ul>
               </div>
             </header>
@@ -120,9 +121,11 @@
               <p><i>(link al diccionario <a href="files/DEVCC%20v1.docx">aquí</a>)</i></p>
             </div>
             <!-- entry__content -->
-            <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a>
-            </p>
+            <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a>,
+              <a href="servicio.html">Servicio</a> </p>
             <ul class="entry__post-nav h-group">
+              <li class="prev"><a rel="prev" href="resistencia fisica.html"><strong class="h6">Reflexión
+                    anterior</strong> Resistencia física</a></li>
               <li class="next"><a rel="next" href="devcc v2.html"><strong
                     class="h6">Siguiente reflexión</strong> DEVCC v2</a></li>
             </ul>
@@ -131,10 +134,10 @@
           <div class="widget widget--categories">
             <h3 class="h6">Etiquetas</h3>
             <ul>
-              <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
-              <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
-              <li><a href="servicio.html" title="">Servicio</a> (523)</li>
-              <li><a href="otros.html" title="">Otros</a> (3)</li>
+              <li><a href="creatividad.html" title="">Creatividad</a> (18)</li>
+              <li><a href="actividad.html" title="">Actividad</a> (14)</li>
+              <li><a href="servicio.html" title="">Servicio</a> (19)</li>
+              <li><a href="otros.html" title="">Otros</a></li>
             </ul>
           </div>
         </div>

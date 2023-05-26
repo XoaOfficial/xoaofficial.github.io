@@ -97,10 +97,6 @@
               </div>
             </header>
             <!-- entry__header -->
-            <div class="entry__content-media"> <img src="images/wheel-500.jpg"
-                srcset="images/wheel-1000.jpg 1000w, 
-                                     images/wheel-500.jpg 500w" sizes="(max-width: 1000px) 100vw, 1000px"
-                alt=""> </div>
             <div class="entry__content">
               <p>Ya había jugado bastante tiempo al ping-pong antes de venir al
                 instituto, pero nunca de una manera competitiva ni muy seria,
@@ -114,28 +110,25 @@
               <p>Las clases en sí son muy entretenidas y me lo paso muy bien, y
                 el ping-pong es sin duda uno de mis deportes favoritos hoy en
                 día, ya sea como ocio o para ponerme en serio a intentar ganar.</p>
-              <p><i>(Nota para Cacho: no he logrado encontrar las fotos que
-                  había hecho en el taller, así que haré unas cuantas extra el
-                  año que viene y usaré esas)</i></p>
             </div>
             <!-- entry__content -->
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="actividad.html">Actividad</a>
             </p>
             <ul class="entry__post-nav h-group">
-              <li class="prev"><a rel="prev" href="#0"><strong class="h6">Previous
-                    Article</strong> Duis Sed Odio Sit Amet Nibh Vulputate</a></li>
-              <li class="next"><a rel="next" href="#0"><strong class="h6">Next
-                    Article</strong> Morbi Elit Consequat Ipsum</a></li>
+              <li class="prev"><a rel="prev" href="teatro+a%C3%B1o+2.html"><strong
+                    class="h6">Reflexión anterior</strong> Teatro - Año 2</a></li>
+              <li class="next"><a rel="next" href="pingpong+a%C3%B1o+2.html"><strong
+                    class="h6">Siguiente reflexión</strong> Ping-Pong - Año 2</a></li>
             </ul>
           </article>
           <!-- end entry -->
           <div class="widget widget--categories">
             <h3 class="h6">Etiquetas</h3>
             <ul>
-              <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
-              <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
-              <li><a href="servicio.html" title="">Servicio</a> (523)</li>
-              <li><a href="otros.html" title="">Otros</a> (3)</li>
+              <li><a href="creatividad.html" title="">Creatividad</a> (18)</li>
+              <li><a href="actividad.html" title="">Actividad</a> (14)</li>
+              <li><a href="servicio.html" title="">Servicio</a> (19)</li>
+              <li><a href="otros.html" title="">Otros</a></li>
             </ul>
           </div>
         </div>

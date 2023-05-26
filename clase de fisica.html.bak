@@ -41,8 +41,7 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
-
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -88,8 +87,10 @@
         <div id="main" class="s-content__main large-8 column">
           <article class="entry">
             <header class="entry__header">
-              <h2 class="entry__title h1"> <a href="#">Lo de yoel; necesito
-                  chiste</a> </h2>
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="clase%20de%20fisica.html" title="">Clase
+                  Avanzada Supervisada</a></h2>
+              <h2 class="entry__title h1"><a href="#"></a> </h2>
               <div class="entry__meta">
                 <ul>
                   <li>Clase de física</li>
@@ -123,20 +124,21 @@
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="servicio.html">Servicio</a>
             </p>
             <ul class="entry__post-nav h-group">
-              <li class="prev"><a rel="prev" href="#0"><strong class="h6">Previous
-                    Article</strong> Duis Sed Odio Sit Amet Nibh Vulputate</a></li>
-              <li class="next"><a rel="next" href="#0"><strong class="h6">Next
-                    Article</strong> Morbi Elit Consequat Ipsum</a></li>
+              <li class="prev"><a rel="prev" href="reflexiones%20matinales.html"><strong
+                    class="h6">Reflexión anterior</strong> Reflexiones Matinales</a></li>
+              <li class="next"><a rel="next" href="clase%20de%20fisica%202.html"><strong
+                    class="h6">Siguiente reflexión</strong> Clase de física -
+                  Edición bachillerato</a></li>
             </ul>
           </article>
           <!-- end entry -->
           <div class="widget widget--categories">
             <h3 class="h6">Etiquetas</h3>
             <ul>
-              <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
-              <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
-              <li><a href="servicio.html" title="">Servicio</a> (523)</li>
-              <li><a href="otros.html" title="">Otros</a> (3)</li>
+              <li><a href="creatividad.html" title="">Creatividad</a> (18)</li>
+              <li><a href="actividad.html" title="">Actividad</a> (14)</li>
+              <li><a href="servicio.html" title="">Servicio</a> (19)</li>
+              <li><a href="otros.html" title="">Otros</a></li>
             </ul>
           </div>
         </div>
@@ -151,8 +153,7 @@
       </div>
       <!-- end footer__bottom -->
       <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
-
+          <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
               d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
       <!-- end ss-go-top --> </footer>
     <!-- end Footer-->
@@ -160,6 +161,5 @@
     ================================================== -->
     <script src="js/jquery-3.2.1.min.js"></script>
     <script src="js/main.js"></script>
-    
   </body>
 </html>

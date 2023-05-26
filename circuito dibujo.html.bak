@@ -132,19 +132,19 @@
               <!-- entry__content -->
               <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a></p>
               <ul class="entry__post-nav h-group">
-                <li class="prev"><a rel="prev" href="#0"><strong class="h6">Previous
-                      Article</strong> Duis Sed Odio Sit Amet Nibh Vulputate</a></li>
-                <li class="next"><a rel="next" href="#0"><strong class="h6">Next
-                      Article</strong> Morbi Elit Consequat Ipsum</a></li>
-              </ul>
+              <li class="prev"><a rel="prev" href="comba.html"><strong class="h6">Reflexión
+                    anterior</strong> Comba</a></li>
+              <li class="next"><a rel="next" href="senderismo.html"><strong
+                    class="h6">Siguiente reflexión</strong> Senderismo</a></li>
+            </ul>
               <!-- end entry -->
               <div class="widget widget--categories">
                 <h3 class="h6">Etiquetas</h3>
                 <ul>
-                  <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
-                  <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
-                  <li><a href="servicio.html" title="">Servicio</a> (523)</li>
-                  <li><a href="otros.html" title="">Otros</a> (3)</li>
+                  <li><a href="creatividad.html" title="">Creatividad</a> (18)</li>
+                  <li><a href="actividad.html" title="">Actividad</a> (14)</li>
+                  <li><a href="servicio.html" title="">Servicio</a> (19)</li>
+                  <li><a href="otros.html" title="">Otros</a></li>
                 </ul>
               </div>
             </div>

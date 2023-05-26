@@ -4,7 +4,7 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <!--- basic page needs
     ================================================== -->
-    <title>Otros</title>
+    <title>Archivo</title>
     <meta name="description" content="">
     <meta name="author" content="">
     <!-- mobile specific metas
@@ -41,8 +41,7 @@
       <div class="row">
         <div class="s-header__content column">
           <h1 class="s-header__logotext"> <a href="index.html" title="">Diego
-              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
-
+              de Merca<span style="color: rgba(132, 190, 91, 0.4);"></span><del
                 style="color: rgba(132, 190, 91, 0.4);"></del>do</a> </h1>
           <p class="s-header__tagline">Carpeta CAS 2021-2023</p>
         </div>
@@ -85,28 +84,657 @@
     ================================================== -->
     <div class="s-content">
       <div class="row">
-        <div id="main" class="s-content__main large-8 column">
-              <p> <i><br>
-                </i></p>
-              <p><i>(Nota para Cacho: la sección de Otros todavía no está
-                  hecha, pero es donde voy a poner el perfil, la reflexión
-                  final, los resultados del aprendizaje, etc. La sección de
-                  archivo será una recopilación de todas las reflexiones, cuando
-                  tenga un orden permanente decidido) </i></p>
-            <!-- end main -->
-            <div id="sidebar" class="s-content__sidebar large-4 column">
-              <div class="widget widget--categories">
-                <h3 class="h6">Etiquetas</h3>
+        <div class="s-content__main large-8 column"> <i>En esta página se
+            encuentran todas las reflexiones del programa CAS. Siguen un orden
+            similar al de las propias actividades, pero he agrupado las
+            reflexiones sucesivas sobre la misma actividad para que sean más
+            fáciles de leer.<br>
+            <br>
+            El ligero desequilibrio entre el número de reflexiones de
+            creatividad y servicio frente a actividad se debe al gran número de
+            experiencias que se encuentran a medio camino entre las dos
+            primeras, por lo que acaban llevando la etiqueta de las dos
+            categorías, mientras que las entradas de actividad suelen ser
+            únicamente de esta categoría.</i><br>
+          <br>
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="programacion.html" title="">Resolviendo
+                  problemas CASo a CASo</a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
                 <ul>
-                  <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
-                  <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
-                  <li><a href="servicio.html" title="">Servicio</a> (523)</li>
-                  <li><a href="otros.html" title="">Otros</a> (3)</li>
+                  <li>Programación</li>
+                  <li><a href="creatividad.html" title="" rel="category tag">Creatividad</a></li>
                 </ul>
               </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> <a href="taller%20programacion.html"
+                  title="">Le das al botón, y arranCAS el programa</a> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Taller de programación</li>
+                  <li> <a href="creatividad.html" rel="category tag">Creatividad</a>,
+                    <a href="servicio.html">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> <a href="taller%20programacion+a%C3%B1o+2.html"
+                  title="">CAS++</a> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Taller de programación - Año 2</li>
+                  <li> <a href="creatividad.html" rel="category tag">Creatividad</a>,
+                    <a href="servicio.html">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> <a href="codewars.html" title="">En
+                  sus marCAS, listos, ¡a programar!</a> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>CodeWars</li>
+                  <li> <a href="creatividad.html" title="" rel="category tag">Creatividad</a></li>
+                </ul>
+              </div>
+            </header>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> <a href="codewars+a%C3%B1o+2.html" title="">CASi
+                  primeros, pero sin premio</a> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>CodeWars - Año 2</li>
+                  <li> <a href="creatividad.html" rel="category tag">Creatividad</a>,
+                    <a href="servicio.html">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="teatro.html" title="">Ni
+                  Disney tiene tan buen CASting</a></h2>
+              <h2 class="entry__title h1"><a href="single.html" title=""></a> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Teatro</li>
+                  <li> <a href="creatividad.html" title="" rel="category tag">Creatividad</a></li>
+                </ul>
+              </div>
+            </header>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="teatro%202.html" title="">Las
+                  ideas más loCAS dan las obras más divertidas<br>
+                </a></h2>
+              <h2 class="entry__title h1"><a href="single.html" title=""></a> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Teatro - Parte 2</li>
+                  <li> <a href="creatividad.html" rel="category tag">Creatividad</a>,
+                    <a href="servicio.html">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><span style="color: black;">Para el
+                  último año, escenas iróniCAS y personajes cómicos</span></h2>
+              <h2 class="entry__title h1"><a href="single.html" title=""></a> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Teatro - Año 2</li>
+                  <li> <a href="creatividad.html" rel="category tag">Creatividad</a>,
+                    <a href="servicio.html">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="pingpong.html" title="">Tenis...
+                  con caniCAS</a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Ping-Pong</li>
+                  <li><a href="actividad.html" title="" rel="category tag">Actividad</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><span style="color: black;">Partidas
+                  idíliCAS entre grandes amigos</span></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Ping-Pong - Año 2</li>
+                  <li><a href="actividad.html" title="" rel="category tag">Actividad</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="pingpong.html" title="">Un
+                  fraCASo relativo<br>
+                </a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Taller de Ping-Pong</li>
+                  <li> <a href="actividad.html">Actividad</a>, <a href="servicio.html"
+                      rel="category tag">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="ayuda%20mutua.html" title="">¿Me
+                  lo expliCAS?</a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Ayuda Mutua</li>
+                  <li><a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="recogida.html" title="">Comida
+                  de todo tipo... menos carne de vaCAS</a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Recogida de alimentos</li>
+                  <li><a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"></h2>
+              <h2 class="entry__title h1"><a href="comba.html" title=""> CAnSado
+                  de saltar</a></h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Comba</li>
+                  <li> <a href="creatividad.html" rel="category tag">Creatividad</a>,
+                    <a href="actividad.html">Actividad</a></li>
+                </ul>
+              </div>
+            </header>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"></h2>
+              <h2 class="entry__title h1"><a href="circuito%20dibujo.html" title="">Vamos
+                  a un circuito, ponte el CASco</a> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Circuito dibujo técnico</li>
+                  <li> <a href="creatividad.html" title="" rel="category tag">Creatividad</a></li>
+                </ul>
+              </div>
+            </header>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="senderismo.html">CAScadas
+                  congeladas en Riaza</a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Senderismo</li>
+                  <li> <a href="actividad.html" rel="category tag">Actividad</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"></h2>
+              <h2 class="entry__title h1"></h2>
+              <h2 class="entry__title h1"><a href="challenge.html" title="">Ejercicio
+                  desde CASa</a> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Welcome to the challenge</li>
+                  <li> <a href="creatividad.html" rel="category tag">Creatividad</a>,
+                    <a href="actividad.html">Actividad</a></li>
+                </ul>
+                <ul>
+                </ul>
+              </div>
+            </header>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"></h2>
+              <h2 class="entry__title h1"><span style="color: black;">PlaCAS
+                  solares para el instituto</span></h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Olimpiada de arquitectura</li>
+                  <li> <a href="creatividad.html" title="" rel="category tag">Creatividad</a>,
+                    <a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="resistencia%20fisica.html">Corriendo
+                  más rápido que un CAStor<br>
+                </a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Resistencia física</li>
+                  <li> <a href="actividad.html" rel="category tag">Actividad</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"></h2>
+              <h2 class="entry__title h1"><a href="devcc.html" title="">Definiciones
+                  bastante épiCAS </a></h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Diccionario Etimológico de Vocabulario Coloquial
+                    Contemporáneo</li>
+                  <li> <a href="creatividad.html" title="" rel="category tag">Creatividad</a>,
+                    <a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"></h2>
+              <h2 class="entry__title h1"><a href="devcc%20v2.html" title="">Definiciones
+                  aún más épiCAS</a></h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Diccionario Etimológico de Vocabulario Coloquial
+                    Contemporáneo, versión 2</li>
+                  <li> <a href="creatividad.html" title="" rel="category tag">Creatividad</a>,
+                    <a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="reflexiones%20matinales.html"
+                  title="">Creatividad CASi a diario</a></h2>
+              <h2 class="entry__title h1"><a href="single.html" title=""></a></h2>
+              <h2 class="entry__title h1"><a href="single.html" title=""></a> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Reflexiones Matinales</li>
+                  <li> <a href="creatividad.html" title="" rel="category tag">Creatividad</a></li>
+                </ul>
+              </div>
+            </header>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="clase%20de%20fisica.html" title="">Clase
+                  Avanzada Supervisada<br>
+                </a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Clase de física</li>
+                  <li><a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="clase%20de%20fisica%202.html"
+                  title="">El campo eléctrico en una CÁScara de nuez<br>
+                </a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Clase de física - Edición bachillerato</li>
+                  <li><a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="senderismo%20caluroso.html">PoCAS
+                  sombras, mucho calor<br>
+                </a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Senderismo caluroso</li>
+                  <li> <a href="actividad.html" rel="category tag">Actividad</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1">Cuidado, que salpiCAS</h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Natación</li>
+                  <li> <a href="actividad.html" rel="category tag">Actividad</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="maxibi.html" title="">Triple
+                  maxi por CASualidad<br>
+                </a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>MiniBI - MaxiBI</li>
+                  <li><a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1">Flexiones lúdiCAS y liberadoras</h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Calistenia</li>
+                  <li> <a href="actividad.html" rel="category tag">Actividad</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="calistenia%202.html">CASistenia
+                  llego a un minuto<br>
+                </a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Calistenia - Parte 2</li>
+                  <li> <a href="actividad.html" rel="category tag">Actividad</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="regalos+navide%C3%B1os.html"
+                  title="">Actividades solidarias y laiCAS en una parroquia<br>
+                </a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Regalos navideños</li>
+                  <li><a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="senderismo+a%C3%B1o+2.html" title="">Frambuesas,
+                  arándanos, pero no CAStañas<br>
+                </a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Senderismo - Año 2</li>
+                  <li> <a href="actividad.html">Actividad</a>, <a href="servicio.html"
+                      rel="category tag">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1">Me enCASquetan responsabilidades (sale
+                bien)</h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Servicio en el instituto</li>
+                  <li><a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="escalada.html">Escalando
+                  rocas con CASpa en las manos<br>
+                </a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Escalada</li>
+                  <li> <a href="actividad.html" rel="category tag">Actividad</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="escalada%202.html">Escalada
+                  con arnés y sin CASco<br>
+                </a></h2>
+              <h2 class="entry__title h1"> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Escalada - Parte 2</li>
+                  <li> <a href="actividad.html" rel="category tag">Actividad</a></li>
+                </ul>
+              </div>
+            </header>
+            <div class="entry__content"> </div>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"></h2>
+              <h2 class="entry__title h1">¡CÁSpita, cuántas funciones!</h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Tutorial calculadora gráfica</li>
+                  <li> <a href="creatividad.html" title="" rel="category tag">Creatividad</a>,
+                    <a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="certamen%20literario.html" title="">Un
+                  poema en CAStellano<br>
+                </a></h2>
+              <h2 class="entry__title h1"><a href="single.html" title=""></a></h2>
+              <h2 class="entry__title h1"><a href="single.html" title=""></a> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Certamen literario</li>
+                  <li> <a href="creatividad.html" title="" rel="category tag">Creatividad</a></li>
+                </ul>
+              </div>
+            </header>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"><a href="corto%20quijotesco.html" title="">En
+                  una finca, en medio de CAStilla...<br>
+                </a></h2>
+              <h2 class="entry__title h1"><a href="single.html" title=""></a></h2>
+              <h2 class="entry__title h1"><a href="single.html" title=""></a> </h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>Corto Quijotesco</li>
+                  <li> <a href="creatividad.html" title="" rel="category tag">Creatividad</a></li>
+                </ul>
+              </div>
+            </header>
+          </article>
+          <!-- end entry -->
+          <article class="entry">
+            <header class="entry__header">
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"> </h2>
+              <h2 class="entry__title h1"></h2>
+              <h2 class="entry__title h1"><a href="awards.html" title="">El
+                  oCASo de una era</a></h2>
+              <div class="entry__meta">
+                <ul>
+                  <li>aWards</li>
+                  <li> <a href="creatividad.html" title="" rel="category tag">Creatividad</a>,
+                    <a href="servicio.html" title="" rel="category tag">Servicio</a></li>
+                </ul>
+              </div>
+            </header>
+          </article>
+          <!-- end entry -->
+          <!-- end main -->
+          <div id="sidebar" class="s-content__sidebar large-4 column">
+            <div class="widget widget--categories">
+              <h3 class="h6">Etiquetas</h3>
+              <ul>
+                <li><a href="creatividad.html" title="">Creatividad</a> (18)</li>
+                <li><a href="actividad.html" title="">Actividad</a> (14)</li>
+                <li><a href="servicio.html" title="">Servicio</a> (19)</li>
+                <li><a href="otros.html" title="">Otros</a></li>
+              </ul>
             </div>
-            <!-- end sidebar -->
-        </div>
+          </div>
+          <!-- end sidebar --> </div>
         <!-- end row --> </div>
       <!-- end content-wrap -->
       <!-- Footer
@@ -117,8 +745,7 @@
             <a href="https://www.styleshout.com/">StyleShout</a></span> </div>
         <!-- end footer__bottom -->
         <div class="ss-go-top"> <a class="smoothscroll" title="Back to Top" href="#top">
-            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
-
+            <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><path
                 d="M12 0l8 9h-6v15h-4v-15h-6z"></path></svg> </a> </div>
         <!-- end ss-go-top --> </footer>
       <!-- end Footer-->

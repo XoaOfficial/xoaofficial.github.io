@@ -91,7 +91,7 @@
               </h2>
               <div class="entry__meta">
                 <ul>
-                  <li>Comba</li>
+                  <li>Welcome to the challenge</li>
                   <li><a href="creatividad.html" title="" rel="category tag">Creatividad</a>,
                     <a href="actividad.html" title="" rel="category tag">Actividad</a></li>
                 </ul>
@@ -127,18 +127,20 @@
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a>,
               <a href="actividad.html">Actividad</a> </p>
             <ul class="entry__post-nav h-group">
-              <li class="next"><a rel="next" href="comba.html"><strong class="h6">Siguiente
-                    reflexión</strong> Comba</a></li>
+              <li class="prev"><a rel="prev" href="senderismo.html"><strong class="h6">Reflexión
+                    anterior</strong> Senderismo</a></li>
+              <li class="next"><a rel="next" href="olimpiada arquitectura.html"><strong
+                    class="h6">Siguiente reflexión</strong> Olimpiada de arquitectura</a></li>
             </ul>
           </article>
           <!-- end entry -->
           <div class="widget widget--categories">
             <h3 class="h6">Etiquetas</h3>
             <ul>
-              <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
-              <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
-              <li><a href="servicio.html" title="">Servicio</a> (523)</li>
-              <li><a href="otros.html" title="">Otros</a> (3)</li>
+              <li><a href="creatividad.html" title="">Creatividad</a> (18)</li>
+              <li><a href="actividad.html" title="">Actividad</a> (14)</li>
+              <li><a href="servicio.html" title="">Servicio</a> (19)</li>
+              <li><a href="otros.html" title="">Otros</a></li>
             </ul>
           </div>
         </div>

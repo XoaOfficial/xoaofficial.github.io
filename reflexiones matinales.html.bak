@@ -122,14 +122,7 @@
                   intentaría integrar en el léxico español o se ignoraría?</li>
                 <li>¿Es la libertad necesaria para la felicidad?</li>
                 <li>¿Cuál es la frase más larga que podéis crear, conteniendo la
-                  menor cantidad de información posible? <i>(para esta pregunta
-                    tengo que destacar la respuesta de Rafa, quien me sorprendió
-                    increíblemente con su creatividad: <span style="color: #7a7a7a;">"Por
-                      último, y como definitivo elemento esclarecedor, cabe
-                      añadir que el inicio de la acción general de formación de
-                      las actitudes y la consulta con numerosos militantes
-                      ofrece un ensayo interesante de verificación de las
-                      premisas adoptadas."</span>)</i></li>
+                  menor cantidad de información posible?</li>
                 <li>¿Qué hace que una reflexión matinal sea interesante o
                   entretenida? <i>(de vez en cuando hago hasta metarreflexiones
                     matinales, me encanta la idea)</i></li>
@@ -149,18 +142,20 @@
             <p class="entry__tags"> <span>Etiquetado en </span>: <a href="creatividad.html">Creatividad</a>
             </p>
             <ul class="entry__post-nav h-group">
-              <li class="next"><a rel="next" href="taller%20programacion.html"><strong
-                    class="h6">Siguiente reflexión</strong> En 2º de bachillerato va a haber más reflexiones matinales !!!!</a></li>
+              <li class="prev"><a rel="prev" href="devcc v2.html"><strong class="h6">Reflexión
+                    anterior</strong> DEVCC v2</a></li>
+              <li class="next"><a rel="next" href="clase de fisica.html"><strong
+                    class="h6">Siguiente reflexión</strong> Clase de física</a></li>
             </ul>
           </article>
           <!-- end entry -->
           <div class="widget widget--categories">
             <h3 class="h6">Etiquetas</h3>
             <ul>
-              <li><a href="creatividad.html" title="">Creatividad</a> (n)</li>
-              <li><a href="actividad.html" title="">Actividad</a> (2432)</li>
-              <li><a href="servicio.html" title="">Servicio</a> (523)</li>
-              <li><a href="otros.html" title="">Otros</a> (3)</li>
+              <li><a href="creatividad.html" title="">Creatividad</a> (18)</li>
+              <li><a href="actividad.html" title="">Actividad</a> (14)</li>
+              <li><a href="servicio.html" title="">Servicio</a> (19)</li>
+              <li><a href="otros.html" title="">Otros</a></li>
             </ul>
           </div>
         </div>
